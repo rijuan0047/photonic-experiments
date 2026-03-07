@@ -1,0 +1,1 @@
+repository of quick photonic simulations and optimizations I carry out personally
