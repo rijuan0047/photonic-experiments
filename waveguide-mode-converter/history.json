@@ -1,0 +1,4192 @@
+[
+  {
+    "iteration": 0,
+    "beta": 5.0,
+    "fitness": 0.0027342249762240395,
+    "binarity": 0.0,
+    "current_source_eta": "69.00899743625409",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 0.18319307340701066",
+    "grad_L1_norm": 1.7370680672338912,
+    "relative_grad_L1_norm": 635.3052316593008
+  },
+  {
+    "iteration": 1,
+    "beta": 5.0,
+    "fitness": 0.004440007991193902,
+    "binarity": 0.0,
+    "current_source_eta": "68.98230497971818",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 0.2974805354099915",
+    "grad_L1_norm": 2.3605457982560782,
+    "relative_grad_L1_norm": 531.6533824453666
+  },
+  {
+    "iteration": 2,
+    "beta": 5.0,
+    "fitness": 0.004500465557623153,
+    "binarity": 0.0,
+    "current_source_eta": "68.95228365870518",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 0.30153119236075127",
+    "grad_L1_norm": 2.1397318839997337,
+    "relative_grad_L1_norm": 475.4466801614892
+  },
+  {
+    "iteration": 3,
+    "beta": 5.0,
+    "fitness": 0.015220778909797113,
+    "binarity": 0.0,
+    "current_source_eta": "68.65222506576497",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 1.0197921869564066",
+    "grad_L1_norm": 4.585731339862554,
+    "relative_grad_L1_norm": 301.28097029449
+  },
+  {
+    "iteration": 4,
+    "beta": 5.0,
+    "fitness": 0.042248131342554916,
+    "binarity": 0.0,
+    "current_source_eta": "68.07516800865268",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 2.8306247999511793",
+    "grad_L1_norm": 11.27276448293115,
+    "relative_grad_L1_norm": 266.8227885561826
+  },
+  {
+    "iteration": 5,
+    "beta": 5.0,
+    "fitness": 0.04926087609875678,
+    "binarity": 0.0,
+    "current_source_eta": "68.12427721307832",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 3.3004786986167045",
+    "grad_L1_norm": 14.84469666496204,
+    "relative_grad_L1_norm": 301.3486064245633
+  },
+  {
+    "iteration": 6,
+    "beta": 5.0,
+    "fitness": 0.07407561724596513,
+    "binarity": 0.0,
+    "current_source_eta": "69.63449215163043",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 4.963066355479664",
+    "grad_L1_norm": 22.42677374373305,
+    "relative_grad_L1_norm": 302.75513420982656
+  },
+  {
+    "iteration": 7,
+    "beta": 5.0,
+    "fitness": 0.1333075369293031,
+    "binarity": 0.0,
+    "current_source_eta": "69.42522509678842",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 8.931604974263308",
+    "grad_L1_norm": 25.46307636966659,
+    "relative_grad_L1_norm": 191.01002662857974
+  },
+  {
+    "iteration": 8,
+    "beta": 5.0,
+    "fitness": 0.18552358420836337,
+    "binarity": 0.0,
+    "current_source_eta": "68.72936329260364",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 12.430080141960346",
+    "grad_L1_norm": 29.282704620422997,
+    "relative_grad_L1_norm": 157.83817775802092
+  },
+  {
+    "iteration": 9,
+    "beta": 5.0,
+    "fitness": 0.004984090805996542,
+    "binarity": 0.0014222416716809802,
+    "current_source_eta": "66.32526785956385",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 0.3339340840017683",
+    "grad_L1_norm": 7.861959457392304,
+    "relative_grad_L1_norm": 1577.41064238289
+  },
+  {
+    "iteration": 10,
+    "beta": 5.0,
+    "fitness": 0.21555317417319564,
+    "binarity": 0.0,
+    "current_source_eta": "67.75309286038748",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 14.442062669604107",
+    "grad_L1_norm": 38.021767350606396,
+    "relative_grad_L1_norm": 176.3915902424362
+  },
+  {
+    "iteration": 11,
+    "beta": 5.0,
+    "fitness": 0.30185438231829326,
+    "binarity": 0.0,
+    "current_source_eta": "66.74826551147449",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 20.224243615325648",
+    "grad_L1_norm": 46.44568248065502,
+    "relative_grad_L1_norm": 153.86784173904118
+  },
+  {
+    "iteration": 12,
+    "beta": 5.0,
+    "fitness": 0.11617638404858974,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "72.15620099166713",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 7.783817731255512",
+    "grad_L1_norm": 39.463741971714725,
+    "relative_grad_L1_norm": 339.6881556885194
+  },
+  {
+    "iteration": 13,
+    "beta": 5.0,
+    "fitness": 0.4118205295233191,
+    "binarity": 0.00016410480827088234,
+    "current_source_eta": "68.10707906459344",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 27.59197547806238",
+    "grad_L1_norm": 53.337859088097886,
+    "relative_grad_L1_norm": 129.5172414554443
+  },
+  {
+    "iteration": 14,
+    "beta": 5.0,
+    "fitness": 0.5637731210532592,
+    "binarity": 0.00016410480827088234,
+    "current_source_eta": "69.72901856391756",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 37.772799110568364",
+    "grad_L1_norm": 52.21177085782726,
+    "relative_grad_L1_norm": 92.61131617568469
+  },
+  {
+    "iteration": 15,
+    "beta": 5.0,
+    "fitness": 0.6782366164485467,
+    "binarity": 0.0003282096165417647,
+    "current_source_eta": "69.07861333845845",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 45.44185330205263",
+    "grad_L1_norm": 52.56161010884,
+    "relative_grad_L1_norm": 77.497452594894
+  },
+  {
+    "iteration": 16,
+    "beta": 5.0,
+    "fitness": 0.7142253721547759,
+    "binarity": 0.00021880641102784313,
+    "current_source_eta": "68.69537971242035",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 47.853099934369986",
+    "grad_L1_norm": 59.56921251100151,
+    "relative_grad_L1_norm": 83.40394327896917
+  },
+  {
+    "iteration": 17,
+    "beta": 5.0,
+    "fitness": 0.7729486178894581,
+    "binarity": 0.00021880641102784313,
+    "current_source_eta": "66.32084124793957",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 51.78755739859369",
+    "grad_L1_norm": 40.22349479589379,
+    "relative_grad_L1_norm": 52.03902796758381
+  },
+  {
+    "iteration": 18,
+    "beta": 5.0,
+    "fitness": 0.809898761068863,
+    "binarity": 0.00021880641102784313,
+    "current_source_eta": "66.96880629623335",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 54.263216991613824",
+    "grad_L1_norm": 31.5205914723502,
+    "relative_grad_L1_norm": 38.91917477664956
+  },
+  {
+    "iteration": 19,
+    "beta": 5.0,
+    "fitness": 0.8650647104501465,
+    "binarity": 0.0003282096165417647,
+    "current_source_eta": "67.3942178413157",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 57.95933560015982",
+    "grad_L1_norm": 26.104713309456113,
+    "relative_grad_L1_norm": 30.1766017777972
+  },
+  {
+    "iteration": 20,
+    "beta": 5.0,
+    "fitness": 0.9044696501300491,
+    "binarity": 0.0003282096165417647,
+    "current_source_eta": "67.22563609871995",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 60.59946655871329",
+    "grad_L1_norm": 24.901946220118866,
+    "relative_grad_L1_norm": 27.532097057105503
+  },
+  {
+    "iteration": 21,
+    "beta": 5.0,
+    "fitness": 0.9202136981566804,
+    "binarity": 0.00043761282205568626,
+    "current_source_eta": "67.82591412255852",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.654317776497585",
+    "grad_L1_norm": 28.273316038046787,
+    "relative_grad_L1_norm": 30.72472846683064
+  },
+  {
+    "iteration": 22,
+    "beta": 5.0,
+    "fitness": 0.9428168375910848,
+    "binarity": 0.00043761282205568626,
+    "current_source_eta": "67.3224054693148",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.16872811860268",
+    "grad_L1_norm": 14.403058158711758,
+    "relative_grad_L1_norm": 15.276623803447578
+  },
+  {
+    "iteration": 23,
+    "beta": 5.0,
+    "fitness": 0.9549234030951261,
+    "binarity": 0.00038291121929872544,
+    "current_source_eta": "67.08130427629473",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.97986800737345",
+    "grad_L1_norm": 11.714229759009417,
+    "relative_grad_L1_norm": 12.267193063625538
+  },
+  {
+    "iteration": 24,
+    "beta": 5.0,
+    "fitness": 0.9656788293382874,
+    "binarity": 0.00038291121929872544,
+    "current_source_eta": "67.20652676500984",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.70048156566526",
+    "grad_L1_norm": 12.723093757821506,
+    "relative_grad_L1_norm": 13.17528494785836
+  },
+  {
+    "iteration": 25,
+    "beta": 5.0,
+    "fitness": 0.9723080851148229,
+    "binarity": 0.00038291121929872544,
+    "current_source_eta": "67.40360708450966",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.14464170269314",
+    "grad_L1_norm": 13.821752397853597,
+    "relative_grad_L1_norm": 14.2154041452879
+  },
+  {
+    "iteration": 26,
+    "beta": 5.0,
+    "fitness": 0.9752372326406297,
+    "binarity": 0.00043761282205568626,
+    "current_source_eta": "67.48727596161505",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.34089458692219",
+    "grad_L1_norm": 10.618037167545866,
+    "relative_grad_L1_norm": 10.887645386454311
+  },
+  {
+    "iteration": 27,
+    "beta": 5.0,
+    "fitness": 0.979155923764703,
+    "binarity": 0.00043761282205568626,
+    "current_source_eta": "67.57966420738987",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.6034468922351",
+    "grad_L1_norm": 7.716493761094451,
+    "relative_grad_L1_norm": 7.880760934933598
+  },
+  {
+    "iteration": 28,
+    "beta": 5.0,
+    "fitness": 0.9813972019204235,
+    "binarity": 0.00043761282205568626,
+    "current_source_eta": "67.69480118979106",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.75361252866837",
+    "grad_L1_norm": 6.566588155119253,
+    "relative_grad_L1_norm": 6.691060597664761
+  },
+  {
+    "iteration": 29,
+    "beta": 5.0,
+    "fitness": 0.9841770292367273,
+    "binarity": 0.00043761282205568626,
+    "current_source_eta": "67.66821888293285",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.93986095886073",
+    "grad_L1_norm": 6.425399320632773,
+    "relative_grad_L1_norm": 6.528702787431699
+  },
+  {
+    "iteration": 30,
+    "beta": 5.0,
+    "fitness": 0.9747038323397326,
+    "binarity": 0.000492314424812647,
+    "current_source_eta": "67.85514039515505",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.30515676676208",
+    "grad_L1_norm": 9.211969722995809,
+    "relative_grad_L1_norm": 9.451044930675861
+  },
+  {
+    "iteration": 31,
+    "beta": 5.0,
+    "fitness": 0.9847666924505473,
+    "binarity": 0.00043761282205568626,
+    "current_source_eta": "67.74971964739241",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.97936839418666",
+    "grad_L1_norm": 5.597423021331305,
+    "relative_grad_L1_norm": 5.6840092770789825
+  },
+  {
+    "iteration": 32,
+    "beta": 5.0,
+    "fitness": 0.9783979878433445,
+    "binarity": 0.000492314424812647,
+    "current_source_eta": "67.8435230667894",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.55266518550408",
+    "grad_L1_norm": 7.646054616188438,
+    "relative_grad_L1_norm": 7.814871558789233
+  },
+  {
+    "iteration": 33,
+    "beta": 5.0,
+    "fitness": 0.9850720979705522,
+    "binarity": 0.00043761282205568626,
+    "current_source_eta": "67.74710766767933",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.999830564027",
+    "grad_L1_norm": 5.491822809156079,
+    "relative_grad_L1_norm": 5.575046552323732
+  },
+  {
+    "iteration": 34,
+    "beta": 5.0,
+    "fitness": 0.9902884308535794,
+    "binarity": 0.000492314424812647,
+    "current_source_eta": "67.73152350939816",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.34932486718982",
+    "grad_L1_norm": 5.704101184972476,
+    "relative_grad_L1_norm": 5.760040207978381
+  },
+  {
+    "iteration": 35,
+    "beta": 5.0,
+    "fitness": 0.991615192062439,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.54016287637141",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.43821786818341",
+    "grad_L1_norm": 11.956735002253293,
+    "relative_grad_L1_norm": 12.057837642974087
+  },
+  {
+    "iteration": 36,
+    "beta": 5.0,
+    "fitness": 0.9935204713566955,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.60323137763835",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.5658715808986",
+    "grad_L1_norm": 5.403801604918324,
+    "relative_grad_L1_norm": 5.4390440411360155
+  },
+  {
+    "iteration": 37,
+    "beta": 5.0,
+    "fitness": 0.9956540594833132,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.61543576260995",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.70882198538199",
+    "grad_L1_norm": 4.059049606635656,
+    "relative_grad_L1_norm": 4.076766989395193
+  },
+  {
+    "iteration": 38,
+    "beta": 5.0,
+    "fitness": 0.9975789719588397,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.63624577049833",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.83779112124226",
+    "grad_L1_norm": 4.45941134755345,
+    "relative_grad_L1_norm": 4.470233904717082
+  },
+  {
+    "iteration": 39,
+    "beta": 5.0,
+    "fitness": 1.0004992061542504,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.69511715256284",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.03344681233477",
+    "grad_L1_norm": 5.526945370213148,
+    "relative_grad_L1_norm": 5.524187656213744
+  },
+  {
+    "iteration": 40,
+    "beta": 5.0,
+    "fitness": 0.9983714770592719,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.37470603413787",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.89088896297122",
+    "grad_L1_norm": 7.438662319872535,
+    "relative_grad_L1_norm": 7.450796104805102
+  },
+  {
+    "iteration": 41,
+    "beta": 5.0,
+    "fitness": 1.004511452829534,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.61364377080731",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.30226733957878",
+    "grad_L1_norm": 5.02582944653577,
+    "relative_grad_L1_norm": 5.003257481411112
+  },
+  {
+    "iteration": 42,
+    "beta": 5.0,
+    "fitness": 1.0018931979953363,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.51244279489161",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.12684426568752",
+    "grad_L1_norm": 5.603080525286447,
+    "relative_grad_L1_norm": 5.592492823491587
+  },
+  {
+    "iteration": 43,
+    "beta": 5.0,
+    "fitness": 0.8040749782620225,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "68.15325743523792",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 53.873023543555504",
+    "grad_L1_norm": 17.60437691763863,
+    "relative_grad_L1_norm": 21.89394940978747
+  },
+  {
+    "iteration": 44,
+    "beta": 5.0,
+    "fitness": 1.0045160971098983,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.61345348993456",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.30257850636319",
+    "grad_L1_norm": 5.01931350845648,
+    "relative_grad_L1_norm": 4.996747705587636
+  },
+  {
+    "iteration": 45,
+    "beta": 5.0,
+    "fitness": 0.9985600324981206,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.50208574274284",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.90352217737409",
+    "grad_L1_norm": 5.270279025300923,
+    "relative_grad_L1_norm": 5.277878994253621
+  },
+  {
+    "iteration": 46,
+    "beta": 5.0,
+    "fitness": 1.0048844113214608,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.60915392630208",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.32725555853787",
+    "grad_L1_norm": 4.687278464462292,
+    "relative_grad_L1_norm": 4.664495146893411
+  },
+  {
+    "iteration": 47,
+    "beta": 5.0,
+    "fitness": 1.003124321232994,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.56291839465906",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.2093295226106",
+    "grad_L1_norm": 4.80315381555754,
+    "relative_grad_L1_norm": 4.788193954728892
+  },
+  {
+    "iteration": 48,
+    "beta": 5.0,
+    "fitness": 0.9968021196857875,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.62750796261366",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.78574201894776",
+    "grad_L1_norm": 4.884954067663003,
+    "relative_grad_L1_norm": 4.900625677142636
+  },
+  {
+    "iteration": 49,
+    "beta": 5.0,
+    "fitness": 1.0049052247350907,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.60889136874452",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.32865005725108",
+    "grad_L1_norm": 4.669268599457713,
+    "relative_grad_L1_norm": 4.646476582945552
+  },
+  {
+    "iteration": 50,
+    "beta": 5.0,
+    "fitness": 1.0001695418337067,
+    "binarity": 0.0006564192330835294,
+    "current_source_eta": "67.54307272111203",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.01135930285835",
+    "grad_L1_norm": 5.1026222098950775,
+    "relative_grad_L1_norm": 5.101757243515128
+  },
+  {
+    "iteration": 51,
+    "beta": 5.0,
+    "fitness": 1.0056200025622117,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.60506434015858",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.37654017166818",
+    "grad_L1_norm": 3.7929463941350763,
+    "relative_grad_L1_norm": 3.771749150473645
+  },
+  {
+    "iteration": 52,
+    "beta": 5.0,
+    "fitness": 1.000045054377219,
+    "binarity": 0.0007111208358404901,
+    "current_source_eta": "67.664444607882",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.00301864327368",
+    "grad_L1_norm": 10.253371747123866,
+    "relative_grad_L1_norm": 10.252909798405305
+  },
+  {
+    "iteration": 53,
+    "beta": 5.0,
+    "fitness": 1.003069554800114,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.6309243901017",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.20566017160765",
+    "grad_L1_norm": 3.916722526597848,
+    "relative_grad_L1_norm": 3.904736719353039
+  },
+  {
+    "iteration": 54,
+    "beta": 5.0,
+    "fitness": 1.0013588488327834,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.63530069076998",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.09104287179649",
+    "grad_L1_norm": 3.447586982625746,
+    "relative_grad_L1_norm": 3.4429085868681915
+  },
+  {
+    "iteration": 55,
+    "beta": 5.0,
+    "fitness": 1.0056224486540983,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.60507461204243",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.37670405982459",
+    "grad_L1_norm": 3.791291209321164,
+    "relative_grad_L1_norm": 3.7700940453599117
+  },
+  {
+    "iteration": 56,
+    "beta": 5.0,
+    "fitness": 1.0030073633619125,
+    "binarity": 0.0007111208358404901,
+    "current_source_eta": "67.65059174825501",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.20149334524814",
+    "grad_L1_norm": 5.344473597146407,
+    "relative_grad_L1_norm": 5.328449009490995
+  },
+  {
+    "iteration": 57,
+    "beta": 5.0,
+    "fitness": 1.0028016638411463,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.6548387566349",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.1877114773568",
+    "grad_L1_norm": 4.436593498730186,
+    "relative_grad_L1_norm": 4.424198377685169
+  },
+  {
+    "iteration": 58,
+    "beta": 5.0,
+    "fitness": 1.0056902188291912,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.60550686204166",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.38124466155581",
+    "grad_L1_norm": 3.756243243366623,
+    "relative_grad_L1_norm": 3.7349903273441316
+  },
+  {
+    "iteration": 59,
+    "beta": 5.0,
+    "fitness": 1.0031512140319379,
+    "binarity": 0.0007111208358404901,
+    "current_source_eta": "67.55099764149045",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.21113134013984",
+    "grad_L1_norm": 7.040340975570093,
+    "relative_grad_L1_norm": 7.018225039328637
+  },
+  {
+    "iteration": 60,
+    "beta": 5.0,
+    "fitness": 1.00349354743694,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.62217797583908",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.23406767827498",
+    "grad_L1_norm": 4.355924094433594,
+    "relative_grad_L1_norm": 4.3407594410731
+  },
+  {
+    "iteration": 61,
+    "beta": 5.0,
+    "fitness": 1.005843096935979,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.60377213530009",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.3914874947106",
+    "grad_L1_norm": 3.6564194557012684,
+    "relative_grad_L1_norm": 3.6351787502487745
+  },
+  {
+    "iteration": 62,
+    "beta": 5.0,
+    "fitness": 1.004225200601992,
+    "binarity": 0.0007111208358404901,
+    "current_source_eta": "67.7142271842132",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.28308844033347",
+    "grad_L1_norm": 6.3782384196683735,
+    "relative_grad_L1_norm": 6.3514024638034146
+  },
+  {
+    "iteration": 63,
+    "beta": 5.0,
+    "fitness": 1.003960493028731,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.66845564075984",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.26535303292498",
+    "grad_L1_norm": 3.01162510444651,
+    "relative_grad_L1_norm": 2.9997446337368774
+  },
+  {
+    "iteration": 64,
+    "beta": 5.0,
+    "fitness": 1.0022354465371976,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.64802203042925",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.14977491799225",
+    "grad_L1_norm": 3.4763352783814994,
+    "relative_grad_L1_norm": 3.468581446529286
+  },
+  {
+    "iteration": 65,
+    "beta": 5.0,
+    "fitness": 1.0058461575756272,
+    "binarity": 0.0005470160275696078,
+    "current_source_eta": "67.60380721521935",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.39169255756703",
+    "grad_L1_norm": 3.6548787023012714,
+    "relative_grad_L1_norm": 3.6336358906782755
+  },
+  {
+    "iteration": 66,
+    "beta": 5.0,
+    "fitness": 1.0049893964870116,
+    "binarity": 0.0007111208358404901,
+    "current_source_eta": "67.59443682212357",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.33428956462977",
+    "grad_L1_norm": 7.67872880207678,
+    "relative_grad_L1_norm": 7.640606777820279
+  },
+  {
+    "iteration": 67,
+    "beta": 5.0,
+    "fitness": 1.0060447255067273,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.59592478994567",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.40499660895073",
+    "grad_L1_norm": 3.054015977340478,
+    "relative_grad_L1_norm": 3.035666205363342
+  },
+  {
+    "iteration": 68,
+    "beta": 5.0,
+    "fitness": 1.0048705147301638,
+    "binarity": 0.0007111208358404901,
+    "current_source_eta": "67.61808452118709",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.32632448692097",
+    "grad_L1_norm": 5.290763819164803,
+    "relative_grad_L1_norm": 5.265119969531997
+  },
+  {
+    "iteration": 69,
+    "beta": 5.0,
+    "fitness": 1.00496115439931,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.62821482226667",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.33239734475377",
+    "grad_L1_norm": 3.015128125532909,
+    "relative_grad_L1_norm": 3.0002434515340863
+  },
+  {
+    "iteration": 70,
+    "beta": 5.0,
+    "fitness": 1.0041909463962726,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.63239314228578",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.28079340855027",
+    "grad_L1_norm": 2.4448557579953905,
+    "relative_grad_L1_norm": 2.434652258452002
+  },
+  {
+    "iteration": 71,
+    "beta": 5.0,
+    "fitness": 1.006045431426593,
+    "binarity": 0.0006017176303265686,
+    "current_source_eta": "67.59592517967505",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.40504390558173",
+    "grad_L1_norm": 3.053524253328836,
+    "relative_grad_L1_norm": 3.035175306112867
+  },
+  {
+    "iteration": 72,
+    "beta": 15.0,
+    "fitness": 0.04636836280597006,
+    "binarity": 0.07040096274820852,
+    "current_source_eta": "71.84671428359633",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 3.106680307999994",
+    "grad_L1_norm": 24.979324186444984,
+    "relative_grad_L1_norm": 538.714807599677
+  },
+  {
+    "iteration": 73,
+    "beta": 15.0,
+    "fitness": 0.059449258829164006,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "73.75134602858606",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 3.9831003415539885",
+    "grad_L1_norm": 24.77915949883417,
+    "relative_grad_L1_norm": 416.8119093499338
+  },
+  {
+    "iteration": 74,
+    "beta": 15.0,
+    "fitness": 0.3014109079208433,
+    "binarity": 0.07083857557026421,
+    "current_source_eta": "70.13979664363683",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 20.1945308306965",
+    "grad_L1_norm": 39.101793050122126,
+    "relative_grad_L1_norm": 129.72918992919085
+  },
+  {
+    "iteration": 75,
+    "beta": 15.0,
+    "fitness": 0.4587076445387422,
+    "binarity": 0.07078387396750725,
+    "current_source_eta": "71.30411377775678",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 30.733412184095727",
+    "grad_L1_norm": 33.07711581654341,
+    "relative_grad_L1_norm": 72.10936233185095
+  },
+  {
+    "iteration": 76,
+    "beta": 15.0,
+    "fitness": 0.4912763939225037,
+    "binarity": 0.07100268037853509,
+    "current_source_eta": "69.79707114803561",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 32.91551839280775",
+    "grad_L1_norm": 45.57806885431888,
+    "relative_grad_L1_norm": 92.77479912607765
+  },
+  {
+    "iteration": 77,
+    "beta": 15.0,
+    "fitness": 0.6149507572502452,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "69.40042097104742",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 41.20170073576643",
+    "grad_L1_norm": 35.776483667679116,
+    "relative_grad_L1_norm": 58.1778023487214
+  },
+  {
+    "iteration": 78,
+    "beta": 15.0,
+    "fitness": 0.6886523505299346,
+    "binarity": 0.07061976915923637,
+    "current_source_eta": "69.18257639976227",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 46.13970748550562",
+    "grad_L1_norm": 28.473826110101268,
+    "relative_grad_L1_norm": 41.347170378265325
+  },
+  {
+    "iteration": 79,
+    "beta": 15.0,
+    "fitness": 0.7671162174741997,
+    "binarity": 0.07045566435096548,
+    "current_source_eta": "68.4072847922624",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 51.396786570771376",
+    "grad_L1_norm": 25.040683495810768,
+    "relative_grad_L1_norm": 32.642620365421145
+  },
+  {
+    "iteration": 80,
+    "beta": 15.0,
+    "fitness": 0.8490790334113173,
+    "binarity": 0.07034626114545156,
+    "current_source_eta": "66.43456228912284",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 56.88829523855826",
+    "grad_L1_norm": 26.689716304598157,
+    "relative_grad_L1_norm": 31.433724332979967
+  },
+  {
+    "iteration": 81,
+    "beta": 15.0,
+    "fitness": 0.8853134860402126,
+    "binarity": 0.07072917236475029,
+    "current_source_eta": "67.46390927818851",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 59.31600356469425",
+    "grad_L1_norm": 25.335365147784366,
+    "relative_grad_L1_norm": 28.61739431134814
+  },
+  {
+    "iteration": 82,
+    "beta": 15.0,
+    "fitness": 0.911968931001455,
+    "binarity": 0.07078387396750724,
+    "current_source_eta": "66.93312842656015",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.10191837709749",
+    "grad_L1_norm": 16.01271063655718,
+    "relative_grad_L1_norm": 17.558394891166788
+  },
+  {
+    "iteration": 83,
+    "beta": 15.0,
+    "fitness": 0.9322905552285164,
+    "binarity": 0.07051036595372245,
+    "current_source_eta": "66.98506178463667",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 62.4634672003106",
+    "grad_L1_norm": 13.687972849379452,
+    "relative_grad_L1_norm": 14.682088923814383
+  },
+  {
+    "iteration": 84,
+    "beta": 15.0,
+    "fitness": 0.9510674127437878,
+    "binarity": 0.07067447076199332,
+    "current_source_eta": "67.26370271223834",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.72151665383378",
+    "grad_L1_norm": 12.56497233140309,
+    "relative_grad_L1_norm": 13.211442374986074
+  },
+  {
+    "iteration": 85,
+    "beta": 15.0,
+    "fitness": 0.9681706187970369,
+    "binarity": 0.07078387396750724,
+    "current_source_eta": "67.96562639518395",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.86743145940147",
+    "grad_L1_norm": 11.65323572046479,
+    "relative_grad_L1_norm": 12.036345125725592
+  },
+  {
+    "iteration": 86,
+    "beta": 15.0,
+    "fitness": 0.9783473650400768,
+    "binarity": 0.07100268037853509,
+    "current_source_eta": "67.86541408273426",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.54927345768515",
+    "grad_L1_norm": 8.51668508128171,
+    "relative_grad_L1_norm": 8.705175050200763
+  },
+  {
+    "iteration": 87,
+    "beta": 15.0,
+    "fitness": 0.9813700295640543,
+    "binarity": 0.07089327717302117,
+    "current_source_eta": "67.74614706418268",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.75179198079164",
+    "grad_L1_norm": 6.455080421086339,
+    "relative_grad_L1_norm": 6.577621304958949
+  },
+  {
+    "iteration": 88,
+    "beta": 15.0,
+    "fitness": 0.9864225502320666,
+    "binarity": 0.07089327717302117,
+    "current_source_eta": "67.70780737817329",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.09031086554846",
+    "grad_L1_norm": 6.2436706036347696,
+    "relative_grad_L1_norm": 6.3296105668268305
+  },
+  {
+    "iteration": 89,
+    "beta": 15.0,
+    "fitness": 0.9894337676406042,
+    "binarity": 0.07100268037853509,
+    "current_source_eta": "67.77526642082329",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.29206243192048",
+    "grad_L1_norm": 5.852824211714996,
+    "relative_grad_L1_norm": 5.915326924566428
+  },
+  {
+    "iteration": 90,
+    "beta": 15.0,
+    "fitness": 0.9943413446337369,
+    "binarity": 0.07127618839231989,
+    "current_source_eta": "67.80263674218253",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.62087009046037",
+    "grad_L1_norm": 4.971326514644452,
+    "relative_grad_L1_norm": 4.999617622734987
+  },
+  {
+    "iteration": 91,
+    "beta": 15.0,
+    "fitness": 0.9960660003980516,
+    "binarity": 0.07122148678956293,
+    "current_source_eta": "67.79432518605499",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.73642202666946",
+    "grad_L1_norm": 4.467675531735966,
+    "relative_grad_L1_norm": 4.485320777403562
+  },
+  {
+    "iteration": 92,
+    "beta": 15.0,
+    "fitness": 0.9973152780294438,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.71806200154738",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.82012362797273",
+    "grad_L1_norm": 5.072363406738193,
+    "relative_grad_L1_norm": 5.086017945773837
+  },
+  {
+    "iteration": 93,
+    "beta": 15.0,
+    "fitness": 1.0002523914203851,
+    "binarity": 0.07116678518680597,
+    "current_source_eta": "67.64342558276664",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.0169102251658",
+    "grad_L1_norm": 3.929186867000862,
+    "relative_grad_L1_norm": 3.9281954202509985
+  },
+  {
+    "iteration": 94,
+    "beta": 15.0,
+    "fitness": 1.002796490171172,
+    "binarity": 0.07138559159783381,
+    "current_source_eta": "67.54954261184108",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.18736484146852",
+    "grad_L1_norm": 3.5169891732240814,
+    "relative_grad_L1_norm": 3.50718137148303
+  },
+  {
+    "iteration": 95,
+    "beta": 15.0,
+    "fitness": 1.0016684719104572,
+    "binarity": 0.07122148678956294,
+    "current_source_eta": "67.60575425542802",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.11178761800063",
+    "grad_L1_norm": 3.657964145179229,
+    "relative_grad_L1_norm": 3.6518710971811004
+  },
+  {
+    "iteration": 96,
+    "beta": 15.0,
+    "fitness": 1.0042305568635979,
+    "binarity": 0.07138559159783381,
+    "current_source_eta": "67.57312869762971",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.28344730986106",
+    "grad_L1_norm": 4.716790906360029,
+    "relative_grad_L1_norm": 4.696920313194352
+  },
+  {
+    "iteration": 97,
+    "beta": 15.0,
+    "fitness": 0.7210968318980573,
+    "binarity": 0.07089327717302117,
+    "current_source_eta": "67.1106482331132",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 48.31348773716984",
+    "grad_L1_norm": 64.9092813482795,
+    "relative_grad_L1_norm": 90.01465321572955
+  },
+  {
+    "iteration": 98,
+    "beta": 15.0,
+    "fitness": 1.0017718458342892,
+    "binarity": 0.07127618839231989,
+    "current_source_eta": "67.57350850981805",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.11871367089738",
+    "grad_L1_norm": 3.658977353635162,
+    "relative_grad_L1_norm": 3.6525056730211958
+  },
+  {
+    "iteration": 99,
+    "beta": 15.0,
+    "fitness": 1.004311919701158,
+    "binarity": 0.07133088999507686,
+    "current_source_eta": "67.57289109062332",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.28889861997759",
+    "grad_L1_norm": 3.25402268014624,
+    "relative_grad_L1_norm": 3.2400518335722346
+  },
+  {
+    "iteration": 100,
+    "beta": 15.0,
+    "fitness": 1.0044164709100345,
+    "binarity": 0.07133088999507686,
+    "current_source_eta": "67.57794961260537",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.29590355097231",
+    "grad_L1_norm": 3.103031047290928,
+    "relative_grad_L1_norm": 3.0893868570176797
+  },
+  {
+    "iteration": 101,
+    "beta": 15.0,
+    "fitness": 1.0043206689850537,
+    "binarity": 0.07127618839231989,
+    "current_source_eta": "67.604394179318",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.2894848219986",
+    "grad_L1_norm": 3.2405166667438525,
+    "relative_grad_L1_norm": 3.226575697971125
+  },
+  {
+    "iteration": 102,
+    "beta": 15.0,
+    "fitness": 1.0049947897055787,
+    "binarity": 0.07122148678956294,
+    "current_source_eta": "67.6090207975243",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.33465091027377",
+    "grad_L1_norm": 2.91901409673174,
+    "relative_grad_L1_norm": 2.9045066936937873
+  },
+  {
+    "iteration": 103,
+    "beta": 15.0,
+    "fitness": 1.0045058321074845,
+    "binarity": 0.07116678518680597,
+    "current_source_eta": "67.65155035288153",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.30189075120146",
+    "grad_L1_norm": 3.2352920530465408,
+    "relative_grad_L1_norm": 3.220779756985599
+  },
+  {
+    "iteration": 104,
+    "beta": 15.0,
+    "fitness": 1.0051054374772836,
+    "binarity": 0.07122148678956294,
+    "current_source_eta": "67.61723841333045",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.342064310978",
+    "grad_L1_norm": 2.84437362891207,
+    "relative_grad_L1_norm": 2.8299256177752294
+  },
+  {
+    "iteration": 105,
+    "beta": 15.0,
+    "fitness": 0.9994955215713842,
+    "binarity": 0.07105738198129205,
+    "current_source_eta": "67.68430647294987",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.96619994528274",
+    "grad_L1_norm": 4.7775497610713265,
+    "relative_grad_L1_norm": 4.779961143577922
+  },
+  {
+    "iteration": 106,
+    "beta": 15.0,
+    "fitness": 1.002223733363681,
+    "binarity": 0.07116678518680597,
+    "current_source_eta": "67.6255933204316",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.14899013536663",
+    "grad_L1_norm": 3.0231637481326636,
+    "relative_grad_L1_norm": 3.0164559513770564
+  },
+  {
+    "iteration": 107,
+    "beta": 15.0,
+    "fitness": 1.0051063484124523,
+    "binarity": 0.07122148678956294,
+    "current_source_eta": "67.61729484280357",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.34212534363431",
+    "grad_L1_norm": 2.8440222566834032,
+    "relative_grad_L1_norm": 2.829573465878424
+  },
+  {
+    "iteration": 108,
+    "beta": 15.0,
+    "fitness": 1.0056673551775466,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.81288815590433",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.37971279689562",
+    "grad_L1_norm": 3.0069800295261158,
+    "relative_grad_L1_norm": 2.990034439375046
+  },
+  {
+    "iteration": 109,
+    "beta": 15.0,
+    "fitness": 1.002740317412539,
+    "binarity": 0.07105738198129205,
+    "current_source_eta": "67.68635295418119",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.18360126664012",
+    "grad_L1_norm": 5.742222278020029,
+    "relative_grad_L1_norm": 5.726529763070334
+  },
+  {
+    "iteration": 110,
+    "beta": 15.0,
+    "fitness": 1.0075693833032342,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70967860579347",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50714868131669",
+    "grad_L1_norm": 4.78205167672998,
+    "relative_grad_L1_norm": 4.746126421890953
+  },
+  {
+    "iteration": 111,
+    "beta": 15.0,
+    "fitness": 1.0007016800277102,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70079638206015",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.04701256185659",
+    "grad_L1_norm": 4.642175516464534,
+    "relative_grad_L1_norm": 4.638920473978886
+  },
+  {
+    "iteration": 112,
+    "beta": 15.0,
+    "fitness": 1.007569811578542,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926641893082",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717737576232",
+    "grad_L1_norm": 4.779476118436361,
+    "relative_grad_L1_norm": 4.7435681962373115
+  },
+  {
+    "iteration": 113,
+    "beta": 15.0,
+    "fitness": 1.0063540182656563,
+    "binarity": 0.07105738198129205,
+    "current_source_eta": "67.75613893826358",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.42571922379896",
+    "grad_L1_norm": 3.0212399562534458,
+    "relative_grad_L1_norm": 3.002164147422063
+  },
+  {
+    "iteration": 114,
+    "beta": 15.0,
+    "fitness": 1.0058111251718165,
+    "binarity": 0.07105738198129205,
+    "current_source_eta": "67.79378561490167",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.3893453865117",
+    "grad_L1_norm": 2.5527496649132133,
+    "relative_grad_L1_norm": 2.538001020757393
+  },
+  {
+    "iteration": 115,
+    "beta": 15.0,
+    "fitness": 1.0075693860768482,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70922374276522",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50714886714883",
+    "grad_L1_norm": 4.778892022622882,
+    "relative_grad_L1_norm": 4.742990491689474
+  },
+  {
+    "iteration": 116,
+    "beta": 15.0,
+    "fitness": 1.0075697537934594,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926061956125",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717350416178",
+    "grad_L1_norm": 4.779396614102936,
+    "relative_grad_L1_norm": 4.743489561258872
+  },
+  {
+    "iteration": 117,
+    "beta": 15.0,
+    "fitness": 1.00756980372614,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926563078646",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717684965139",
+    "grad_L1_norm": 4.7794653137008805,
+    "relative_grad_L1_norm": 4.7435575096456475
+  },
+  {
+    "iteration": 118,
+    "beta": 15.0,
+    "fitness": 1.0075698105113888,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926631181966",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717730426305",
+    "grad_L1_norm": 4.779474650041214,
+    "relative_grad_L1_norm": 4.743566743898212
+  },
+  {
+    "iteration": 119,
+    "beta": 15.0,
+    "fitness": 1.007569811433519,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926640437398",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717736604577",
+    "grad_L1_norm": 4.779475918877334,
+    "relative_grad_L1_norm": 4.743567998860318
+  },
+  {
+    "iteration": 120,
+    "beta": 15.0,
+    "fitness": 1.0075698115588314,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926641695256",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717737444171",
+    "grad_L1_norm": 4.779476091315061,
+    "relative_grad_L1_norm": 4.743568169412568
+  },
+  {
+    "iteration": 121,
+    "beta": 15.0,
+    "fitness": 1.0075698115758729,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926641866183",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717737558348",
+    "grad_L1_norm": 4.779476114751324,
+    "relative_grad_L1_norm": 4.743568192592526
+  },
+  {
+    "iteration": 122,
+    "beta": 15.0,
+    "fitness": 1.0075698115781815,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926641889423",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717737573815",
+    "grad_L1_norm": 4.779476117934957,
+    "relative_grad_L1_norm": 4.743568195741371
+  },
+  {
+    "iteration": 123,
+    "beta": 15.0,
+    "fitness": 0.8213461405201469,
+    "binarity": 0.07078387396750724,
+    "current_source_eta": "67.85252167019823",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 55.03019141484984",
+    "grad_L1_norm": 66.20948736776933,
+    "relative_grad_L1_norm": 80.61094345098992
+  },
+  {
+    "iteration": 124,
+    "beta": 15.0,
+    "fitness": 1.0029287649088137,
+    "binarity": 0.07105738198129205,
+    "current_source_eta": "67.7789016317954",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.19622724889051",
+    "grad_L1_norm": 5.352445585105569,
+    "relative_grad_L1_norm": 5.336815302386304
+  },
+  {
+    "iteration": 125,
+    "beta": 15.0,
+    "fitness": 1.0035333635251538,
+    "binarity": 0.07105738198129205,
+    "current_source_eta": "67.79310480526507",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.2367353561853",
+    "grad_L1_norm": 2.989144276647483,
+    "relative_grad_L1_norm": 2.9786197273688746
+  },
+  {
+    "iteration": 126,
+    "beta": 15.0,
+    "fitness": 1.0075682234888892,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.7092995951276",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50707097375557",
+    "grad_L1_norm": 4.777331624215309,
+    "relative_grad_L1_norm": 4.741447286746973
+  },
+  {
+    "iteration": 127,
+    "beta": 15.0,
+    "fitness": 1.0075695886413036,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70927108039628",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50716243896734",
+    "grad_L1_norm": 4.779174206574162,
+    "relative_grad_L1_norm": 4.743269602127983
+  },
+  {
+    "iteration": 128,
+    "beta": 15.0,
+    "fitness": 1.0075697802484993,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.709267074103",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717527664945",
+    "grad_L1_norm": 4.7794336773400214,
+    "relative_grad_L1_norm": 4.74352622149677
+  },
+  {
+    "iteration": 129,
+    "beta": 15.0,
+    "fitness": 1.0075698071749672,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926651101975",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717708072281",
+    "grad_L1_norm": 4.779470153036211,
+    "relative_grad_L1_norm": 4.743562296386558
+  },
+  {
+    "iteration": 130,
+    "beta": 15.0,
+    "fitness": 1.0075698109595845,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926643187468",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717733429217",
+    "grad_L1_norm": 4.779475279952069,
+    "relative_grad_L1_norm": 4.743567366966511
+  },
+  {
+    "iteration": 131,
+    "beta": 15.0,
+    "fitness": 1.0075698114915466,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926642074981",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717736993361",
+    "grad_L1_norm": 4.779476000581137,
+    "relative_grad_L1_norm": 4.743568079677095
+  },
+  {
+    "iteration": 132,
+    "beta": 15.0,
+    "fitness": 1.0075698115663176,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926641918648",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717737494328",
+    "grad_L1_norm": 4.779476101870692,
+    "relative_grad_L1_norm": 4.743568179853651
+  },
+  {
+    "iteration": 133,
+    "beta": 15.0,
+    "fitness": 1.0075698115768232,
+    "binarity": 0.07111208358404902,
+    "current_source_eta": "67.70926641896676",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 67.50717737564716",
+    "grad_L1_norm": 4.779476116107713,
+    "relative_grad_L1_norm": 4.74356819393425
+  },
+  {
+    "iteration": 134,
+    "beta": 45.0,
+    "fitness": 0.021133843223117267,
+    "binarity": 0.3648596903889284,
+    "current_source_eta": "70.23936904795515",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 1.4159674959488568",
+    "grad_L1_norm": 13.96619747234649,
+    "relative_grad_L1_norm": 660.8451034700804
+  },
+  {
+    "iteration": 135,
+    "beta": 45.0,
+    "fitness": 0.028908906489743865,
+    "binarity": 0.42027241398172965,
+    "current_source_eta": "69.88218143916414",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 1.936896734812839",
+    "grad_L1_norm": 20.286092105463844,
+    "relative_grad_L1_norm": 701.7246193983922
+  },
+  {
+    "iteration": 136,
+    "beta": 45.0,
+    "fitness": 0.029788243415326033,
+    "binarity": 0.47043378370986266,
+    "current_source_eta": "65.82029829370074",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 1.9958123088268442",
+    "grad_L1_norm": 13.116038737161094,
+    "relative_grad_L1_norm": 440.30922246672924
+  },
+  {
+    "iteration": 137,
+    "beta": 45.0,
+    "fitness": 0.06274306534488715,
+    "binarity": 0.4935178600733002,
+    "current_source_eta": "70.6172728225451",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 4.203785378107439",
+    "grad_L1_norm": 28.089773361231757,
+    "relative_grad_L1_norm": 447.69525937459633
+  },
+  {
+    "iteration": 138,
+    "beta": 45.0,
+    "fitness": 0.2647023406784815,
+    "binarity": 0.4838356763853181,
+    "current_source_eta": "71.37110613083364",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 17.73505682545826",
+    "grad_L1_norm": 34.91451613741324,
+    "relative_grad_L1_norm": 131.90104747853673
+  },
+  {
+    "iteration": 139,
+    "beta": 45.0,
+    "fitness": 0.17369838368603607,
+    "binarity": 0.45003008588151633,
+    "current_source_eta": "73.76558918048883",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 11.637791706964418",
+    "grad_L1_norm": 34.16040488212653,
+    "relative_grad_L1_norm": 196.66506941830383
+  },
+  {
+    "iteration": 140,
+    "beta": 45.0,
+    "fitness": 0.34885746357640185,
+    "binarity": 0.47426289590285,
+    "current_source_eta": "70.9348204750275",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 23.373450059618925",
+    "grad_L1_norm": 31.613272205198754,
+    "relative_grad_L1_norm": 90.61945182564743
+  },
+  {
+    "iteration": 141,
+    "beta": 45.0,
+    "fitness": 0.3555765987840341,
+    "binarity": 0.47240304140911327,
+    "current_source_eta": "70.97518113727276",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 23.823632118530284",
+    "grad_L1_norm": 43.69472839159871,
+    "relative_grad_L1_norm": 122.88415047035573
+  },
+  {
+    "iteration": 142,
+    "beta": 45.0,
+    "fitness": 0.44974240943568133,
+    "binarity": 0.4756851375745309,
+    "current_source_eta": "70.34469518198361",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 30.13274143219065",
+    "grad_L1_norm": 29.95104399236028,
+    "relative_grad_L1_norm": 66.59599650241044
+  },
+  {
+    "iteration": 143,
+    "beta": 45.0,
+    "fitness": 0.48223273082720464,
+    "binarity": 0.4722936382035994,
+    "current_source_eta": "70.22809301991538",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 32.30959296542271",
+    "grad_L1_norm": 38.212169707441895,
+    "relative_grad_L1_norm": 79.24009961466949
+  },
+  {
+    "iteration": 144,
+    "beta": 45.0,
+    "fitness": 0.538260229496329,
+    "binarity": 0.47103550134018923,
+    "current_source_eta": "69.8643095423301",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 36.06343537625404",
+    "grad_L1_norm": 24.700180965367924,
+    "relative_grad_L1_norm": 45.888920573960895
+  },
+  {
+    "iteration": 145,
+    "beta": 45.0,
+    "fitness": 0.5615905860139602,
+    "binarity": 0.4661670586948198,
+    "current_source_eta": "69.87309674061426",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 37.626569262935334",
+    "grad_L1_norm": 30.108004919496413,
+    "relative_grad_L1_norm": 53.61201846274532
+  },
+  {
+    "iteration": 146,
+    "beta": 45.0,
+    "fitness": 0.48808625904228525,
+    "binarity": 0.4656747442700071,
+    "current_source_eta": "70.22453326052774",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 32.70177935583311",
+    "grad_L1_norm": 29.539570410326526,
+    "relative_grad_L1_norm": 60.521208705541866
+  },
+  {
+    "iteration": 147,
+    "beta": 45.0,
+    "fitness": 0.567111659571569,
+    "binarity": 0.46594825228379194,
+    "current_source_eta": "69.83555088754319",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 37.99648119129512",
+    "grad_L1_norm": 29.55475462927191,
+    "relative_grad_L1_norm": 52.114524676648095
+  },
+  {
+    "iteration": 148,
+    "beta": 45.0,
+    "fitness": 0.6317804191141106,
+    "binarity": 0.4734423718614955,
+    "current_source_eta": "68.60944497781475",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 42.32928808064541",
+    "grad_L1_norm": 35.4274997598819,
+    "relative_grad_L1_norm": 56.0756532364252
+  },
+  {
+    "iteration": 149,
+    "beta": 45.0,
+    "fitness": 0.6952124810711791,
+    "binarity": 0.4731141622449538,
+    "current_source_eta": "67.91961987896495",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 46.579236231768995",
+    "grad_L1_norm": 24.25658424838227,
+    "relative_grad_L1_norm": 34.89089289092881
+  },
+  {
+    "iteration": 150,
+    "beta": 45.0,
+    "fitness": 0.7177186787497623,
+    "binarity": 0.46611235709206283,
+    "current_source_eta": "67.94229708943132",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 48.08715147623407",
+    "grad_L1_norm": 35.32454586181836,
+    "relative_grad_L1_norm": 49.2178159193718
+  },
+  {
+    "iteration": 151,
+    "beta": 45.0,
+    "fitness": 0.7531322626840229,
+    "binarity": 0.46983206607953615,
+    "current_source_eta": "67.40086613444704",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 50.45986159982954",
+    "grad_L1_norm": 21.84775233579631,
+    "relative_grad_L1_norm": 29.009183896764448
+  },
+  {
+    "iteration": 152,
+    "beta": 45.0,
+    "fitness": 0.7733066448668099,
+    "binarity": 0.4702149772988349,
+    "current_source_eta": "67.16144021377077",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 51.81154520607626",
+    "grad_L1_norm": 19.980581197870976,
+    "relative_grad_L1_norm": 25.837850100815405
+  },
+  {
+    "iteration": 153,
+    "beta": 45.0,
+    "fitness": 0.6815281984813325,
+    "binarity": 0.4713090093539741,
+    "current_source_eta": "68.07397529934964",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 45.66238929824928",
+    "grad_L1_norm": 24.520520307079824,
+    "relative_grad_L1_norm": 35.97873180558167
+  },
+  {
+    "iteration": 154,
+    "beta": 45.0,
+    "fitness": 0.7869109354997434,
+    "binarity": 0.4702149772988349,
+    "current_source_eta": "66.94639221950628",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 52.72303267848281",
+    "grad_L1_norm": 20.154018424575924,
+    "relative_grad_L1_norm": 25.61156223628428
+  },
+  {
+    "iteration": 155,
+    "beta": 45.0,
+    "fitness": 0.11313799249691553,
+    "binarity": 0.518844702149773,
+    "current_source_eta": "68.02957692887102",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 7.58024549729334",
+    "grad_L1_norm": 36.58096058768419,
+    "relative_grad_L1_norm": 323.3304697831811
+  },
+  {
+    "iteration": 156,
+    "beta": 45.0,
+    "fitness": 0.7679299908535007,
+    "binarity": 0.4756851375745309,
+    "current_source_eta": "68.07370825021415",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 51.451309387184544",
+    "grad_L1_norm": 41.56500538700527,
+    "relative_grad_L1_norm": 54.126034701005274
+  },
+  {
+    "iteration": 157,
+    "beta": 45.0,
+    "fitness": 0.4414695897664412,
+    "binarity": 0.47262184782014116,
+    "current_source_eta": "67.66127799645423",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 29.57846251435156",
+    "grad_L1_norm": 21.66781462748887,
+    "relative_grad_L1_norm": 49.08110338895843
+  },
+  {
+    "iteration": 158,
+    "beta": 45.0,
+    "fitness": 0.777445607788597,
+    "binarity": 0.4702696789015918,
+    "current_source_eta": "67.17407798468871",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 52.088855721836",
+    "grad_L1_norm": 21.27072708993625,
+    "relative_grad_L1_norm": 27.359762341548176
+  },
+  {
+    "iteration": 159,
+    "beta": 45.0,
+    "fitness": 0.7869222548524526,
+    "binarity": 0.4702149772988349,
+    "current_source_eta": "66.94640315252397",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 52.72379107511432",
+    "grad_L1_norm": 20.153206842609485,
+    "relative_grad_L1_norm": 25.610162494105644
+  },
+  {
+    "iteration": 160,
+    "beta": 45.0,
+    "fitness": 0.8056803648626721,
+    "binarity": 0.4714731141622449,
+    "current_source_eta": "67.13096055222707",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 53.98058444579903",
+    "grad_L1_norm": 35.85576594864807,
+    "relative_grad_L1_norm": 44.503710736770856
+  },
+  {
+    "iteration": 161,
+    "beta": 45.0,
+    "fitness": 0.8295581853015769,
+    "binarity": 0.4746458071221487,
+    "current_source_eta": "68.56451143369773",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 55.58039841520565",
+    "grad_L1_norm": 34.120507616119205,
+    "relative_grad_L1_norm": 41.13093955258139
+  },
+  {
+    "iteration": 162,
+    "beta": 45.0,
+    "fitness": 0.8533616264308119,
+    "binarity": 0.47355177506700946,
+    "current_source_eta": "68.11998954704762",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 57.175228970864396",
+    "grad_L1_norm": 18.37259260078918,
+    "relative_grad_L1_norm": 21.529668091712708
+  },
+  {
+    "iteration": 163,
+    "beta": 45.0,
+    "fitness": 0.8710738319731414,
+    "binarity": 0.4737158798752803,
+    "current_source_eta": "67.75145858602417",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 58.36194674220047",
+    "grad_L1_norm": 14.370295078942105,
+    "relative_grad_L1_norm": 16.497218186308665
+  },
+  {
+    "iteration": 164,
+    "beta": 45.0,
+    "fitness": 0.9005532515795236,
+    "binarity": 0.47661506482139926,
+    "current_source_eta": "67.67701258474082",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 60.33706785582808",
+    "grad_L1_norm": 18.110831582723904,
+    "relative_grad_L1_norm": 20.11078359980119
+  },
+  {
+    "iteration": 165,
+    "beta": 45.0,
+    "fitness": 0.9199848332621031,
+    "binarity": 0.4775449920682676,
+    "current_source_eta": "68.35895896887202",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.63898382856091",
+    "grad_L1_norm": 19.67150369489028,
+    "relative_grad_L1_norm": 21.382421712058225
+  },
+  {
+    "iteration": 166,
+    "beta": 45.0,
+    "fitness": 0.9344550501166142,
+    "binarity": 0.4821946283026093,
+    "current_source_eta": "67.9525201488166",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 62.60848835781315",
+    "grad_L1_norm": 15.79062468123941,
+    "relative_grad_L1_norm": 16.898217482339703
+  },
+  {
+    "iteration": 167,
+    "beta": 45.0,
+    "fitness": 0.941219346157891,
+    "binarity": 0.4818664186860675,
+    "current_source_eta": "67.91212862259722",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.0616961925787",
+    "grad_L1_norm": 11.603064389302546,
+    "relative_grad_L1_norm": 12.327694308812495
+  },
+  {
+    "iteration": 168,
+    "beta": 45.0,
+    "fitness": 0.9513605054184285,
+    "binarity": 0.4833980635632624,
+    "current_source_eta": "67.9431427270045",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.74115386303471",
+    "grad_L1_norm": 9.566996562043848,
+    "relative_grad_L1_norm": 10.05612120484228
+  },
+  {
+    "iteration": 169,
+    "beta": 45.0,
+    "fitness": 0.9554353170492996,
+    "binarity": 0.48460149882391557,
+    "current_source_eta": "67.86357876364836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.01416624230308",
+    "grad_L1_norm": 9.532208818494817,
+    "relative_grad_L1_norm": 9.976822751284315
+  },
+  {
+    "iteration": 170,
+    "beta": 45.0,
+    "fitness": 0.9637564617337568,
+    "binarity": 0.48629724850938133,
+    "current_source_eta": "67.76181450707244",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.57168293616171",
+    "grad_L1_norm": 8.160902992314234,
+    "relative_grad_L1_norm": 8.467806243462494
+  },
+  {
+    "iteration": 171,
+    "beta": 45.0,
+    "fitness": 0.9681191535673586,
+    "binarity": 0.48585963568732565,
+    "current_source_eta": "67.65864782240288",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.86398328901302",
+    "grad_L1_norm": 15.528204839743221,
+    "relative_grad_L1_norm": 16.039559558846452
+  },
+  {
+    "iteration": 172,
+    "beta": 45.0,
+    "fitness": 0.9703865601991434,
+    "binarity": 0.4860237404955965,
+    "current_source_eta": "67.84930790242178",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.0158995333426",
+    "grad_L1_norm": 9.33355449781798,
+    "relative_grad_L1_norm": 9.618388043507274
+  },
+  {
+    "iteration": 173,
+    "beta": 45.0,
+    "fitness": 0.974507948654077,
+    "binarity": 0.4863519501121383,
+    "current_source_eta": "67.80538173495562",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.29203255982316",
+    "grad_L1_norm": 6.50541138431364,
+    "relative_grad_L1_norm": 6.675585752402409
+  },
+  {
+    "iteration": 174,
+    "beta": 45.0,
+    "fitness": 0.9759850640987893,
+    "binarity": 0.4862972485093813,
+    "current_source_eta": "67.78401804390626",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.39099929461888",
+    "grad_L1_norm": 5.956352277186278,
+    "relative_grad_L1_norm": 6.102913343846482
+  },
+  {
+    "iteration": 175,
+    "beta": 45.0,
+    "fitness": 0.982050972741523,
+    "binarity": 0.48585963568732565,
+    "current_source_eta": "67.76518945362776",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.79741517368204",
+    "grad_L1_norm": 5.523515726613184,
+    "relative_grad_L1_norm": 5.62446947694487
+  },
+  {
+    "iteration": 176,
+    "beta": 45.0,
+    "fitness": 0.9836724218026556,
+    "binarity": 0.48668015972868006,
+    "current_source_eta": "67.74799553014009",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.90605226077793",
+    "grad_L1_norm": 5.649465844016786,
+    "relative_grad_L1_norm": 5.743239022519779
+  },
+  {
+    "iteration": 177,
+    "beta": 45.0,
+    "fitness": 0.9888028094431706,
+    "binarity": 0.4879929981948471,
+    "current_source_eta": "67.81937694514771",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.24978823269242",
+    "grad_L1_norm": 5.3747971418490685,
+    "relative_grad_L1_norm": 5.435661271472463
+  },
+  {
+    "iteration": 178,
+    "beta": 45.0,
+    "fitness": 0.9914729135877991,
+    "binarity": 0.48854001422241666,
+    "current_source_eta": "67.66995582499368",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.42868521038254",
+    "grad_L1_norm": 5.282559309829936,
+    "relative_grad_L1_norm": 5.3279915488424
+  },
+  {
+    "iteration": 179,
+    "beta": 45.0,
+    "fitness": 0.9908713018817441,
+    "binarity": 0.4893605382637711,
+    "current_source_eta": "67.63340004653921",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.38837722607686",
+    "grad_L1_norm": 7.709843860084601,
+    "relative_grad_L1_norm": 7.780873093874165
+  },
+  {
+    "iteration": 180,
+    "beta": 45.0,
+    "fitness": 0.9909548769772263,
+    "binarity": 0.48859471582517366,
+    "current_source_eta": "67.64437632384774",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.39397675747416",
+    "grad_L1_norm": 5.327118132122422,
+    "relative_grad_L1_norm": 5.375742377893464
+  },
+  {
+    "iteration": 181,
+    "beta": 45.0,
+    "fitness": 0.985861281292166,
+    "binarity": 0.48854001422241666,
+    "current_source_eta": "67.77926782575064",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.05270584657512",
+    "grad_L1_norm": 6.3788434947696935,
+    "relative_grad_L1_norm": 6.470325601933198
+  },
+  {
+    "iteration": 182,
+    "beta": 45.0,
+    "fitness": 0.9914734528247726,
+    "binarity": 0.48854001422241666,
+    "current_source_eta": "67.66995264439045",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.42872133925977",
+    "grad_L1_norm": 5.2822402310576235,
+    "relative_grad_L1_norm": 5.327666828275139
+  },
+  {
+    "iteration": 183,
+    "beta": 45.0,
+    "fitness": 0.9902081335174948,
+    "binarity": 0.4904545703189104,
+    "current_source_eta": "67.6808990700313",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.34394494567215",
+    "grad_L1_norm": 4.651044730886909,
+    "relative_grad_L1_norm": 4.697037490156808
+  },
+  {
+    "iteration": 184,
+    "beta": 45.0,
+    "fitness": 0.9884614421865608,
+    "binarity": 0.48892292544171545,
+    "current_source_eta": "67.66648332397261",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.22691662649957",
+    "grad_L1_norm": 4.89312990211524,
+    "relative_grad_L1_norm": 4.950248627140146
+  },
+  {
+    "iteration": 185,
+    "beta": 45.0,
+    "fitness": 0.9915514171167756,
+    "binarity": 0.48854001422241666,
+    "current_source_eta": "67.6698630805306",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.43394494682397",
+    "grad_L1_norm": 5.243907286055585,
+    "relative_grad_L1_norm": 5.2885883578434925
+  },
+  {
+    "iteration": 186,
+    "beta": 45.0,
+    "fitness": 0.9929155535279452,
+    "binarity": 0.4914939007712926,
+    "current_source_eta": "67.6885346488183",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.52534208637233",
+    "grad_L1_norm": 4.963240149071924,
+    "relative_grad_L1_norm": 4.998652832497484
+  },
+  {
+    "iteration": 187,
+    "beta": 45.0,
+    "fitness": 0.9962229604093942,
+    "binarity": 0.4922050216071331,
+    "current_source_eta": "67.69480286331849",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.7469383474294",
+    "grad_L1_norm": 5.775293392224571,
+    "relative_grad_L1_norm": 5.797189601064852
+  },
+  {
+    "iteration": 188,
+    "beta": 45.0,
+    "fitness": 0.993861569575277,
+    "binarity": 0.49215032000437614,
+    "current_source_eta": "67.67481059861795",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.58872516154356",
+    "grad_L1_norm": 3.977354598082272,
+    "relative_grad_L1_norm": 4.001920102192964
+  },
+  {
+    "iteration": 189,
+    "beta": 45.0,
+    "fitness": 0.9963155192379807,
+    "binarity": 0.4922050216071331,
+    "current_source_eta": "67.6918364446558",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.75313978894471",
+    "grad_L1_norm": 5.652825642971618,
+    "relative_grad_L1_norm": 5.673730387760476
+  },
+  {
+    "iteration": 190,
+    "beta": 45.0,
+    "fitness": 0.8482730674997067,
+    "binarity": 0.49461189212843937,
+    "current_source_eta": "67.3745440137231",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 56.834295522480346",
+    "grad_L1_norm": 49.43076664791057,
+    "relative_grad_L1_norm": 58.27223388729766
+  },
+  {
+    "iteration": 191,
+    "beta": 45.0,
+    "fitness": 0.9943955016939049,
+    "binarity": 0.49198621519610525,
+    "current_source_eta": "67.63899883914439",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.62449861349162",
+    "grad_L1_norm": 3.629677645467704,
+    "relative_grad_L1_norm": 3.6501348162120486
+  },
+  {
+    "iteration": 192,
+    "beta": 45.0,
+    "fitness": 0.9940750115114261,
+    "binarity": 0.49215032000437614,
+    "current_source_eta": "67.70889075763478",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.60302577126555",
+    "grad_L1_norm": 4.916264845183506,
+    "relative_grad_L1_norm": 4.945567269378475
+  },
+  {
+    "iteration": 193,
+    "beta": 45.0,
+    "fitness": 0.9963236527068179,
+    "binarity": 0.4922050216071331,
+    "current_source_eta": "67.69164245909504",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.7536847313568",
+    "grad_L1_norm": 5.636557522737098,
+    "relative_grad_L1_norm": 5.65735592221093
+  },
+  {
+    "iteration": 194,
+    "beta": 45.0,
+    "fitness": 0.9957492726014623,
+    "binarity": 0.4924785296209179,
+    "current_source_eta": "67.68351168063941",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.71520126429797",
+    "grad_L1_norm": 3.5398492596587303,
+    "relative_grad_L1_norm": 3.55496042377784
+  },
+  {
+    "iteration": 195,
+    "beta": 45.0,
+    "fitness": 0.9949259924465021,
+    "binarity": 0.4922597232098901,
+    "current_source_eta": "67.6761019935984",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.66004149391564",
+    "grad_L1_norm": 4.279563617226011,
+    "relative_grad_L1_norm": 4.301388892656493
+  },
+  {
+    "iteration": 196,
+    "beta": 45.0,
+    "fitness": 0.9957755234303934,
+    "binarity": 0.4922050216071331,
+    "current_source_eta": "67.67643246765788",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.71696006983636",
+    "grad_L1_norm": 5.780163172291139,
+    "relative_grad_L1_norm": 5.8046849219331085
+  },
+  {
+    "iteration": 197,
+    "beta": 45.0,
+    "fitness": 0.9963252772188836,
+    "binarity": 0.4922050216071331,
+    "current_source_eta": "67.6916221122997",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.7537935736652",
+    "grad_L1_norm": 5.634115671056425,
+    "relative_grad_L1_norm": 5.654895839969505
+  },
+  {
+    "iteration": 198,
+    "beta": 135.0,
+    "fitness": 0.03153173495654275,
+    "binarity": 0.814506865051146,
+    "current_source_eta": "72.47664867299875",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 2.112626242088364",
+    "grad_L1_norm": 25.38383770521785,
+    "relative_grad_L1_norm": 805.025062375317
+  },
+  {
+    "iteration": 199,
+    "beta": 135.0,
+    "fitness": 0.006982977790946157,
+    "binarity": 0.8671298069033422,
+    "current_source_eta": "62.46610110584693",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 0.46785951199339254",
+    "grad_L1_norm": 7.343558103478883,
+    "relative_grad_L1_norm": 1051.636890692012
+  },
+  {
+    "iteration": 200,
+    "beta": 135.0,
+    "fitness": 0.1169118869173356,
+    "binarity": 0.8377550462228542,
+    "current_source_eta": "70.23540229402386",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 7.833096423461486",
+    "grad_L1_norm": 42.9839737406655,
+    "relative_grad_L1_norm": 367.6612747119266
+  },
+  {
+    "iteration": 201,
+    "beta": 135.0,
+    "fitness": 0.10127880745284235,
+    "binarity": 0.8588698648870412,
+    "current_source_eta": "68.707343669808",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 6.785680099340437",
+    "grad_L1_norm": 23.12165356080003,
+    "relative_grad_L1_norm": 228.29705358911272
+  },
+  {
+    "iteration": 202,
+    "beta": 135.0,
+    "fitness": 0.0888229052550164,
+    "binarity": 0.8442098353481757,
+    "current_source_eta": "64.56124815045493",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 5.9511346520860995",
+    "grad_L1_norm": 23.09417162820975,
+    "relative_grad_L1_norm": 260.00243182659284
+  },
+  {
+    "iteration": 203,
+    "beta": 135.0,
+    "fitness": 0.1951126925048469,
+    "binarity": 0.8407636343744871,
+    "current_source_eta": "70.77612757296127",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 13.072550397824742",
+    "grad_L1_norm": 35.99604204041948,
+    "relative_grad_L1_norm": 184.48846865785944
+  },
+  {
+    "iteration": 204,
+    "beta": 135.0,
+    "fitness": 0.3221675070995692,
+    "binarity": 0.8379191510311252,
+    "current_source_eta": "69.52205075531641",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 21.585222975671137",
+    "grad_L1_norm": 36.63609990684581,
+    "relative_grad_L1_norm": 113.71755060886846
+  },
+  {
+    "iteration": 205,
+    "beta": 135.0,
+    "fitness": 0.42115115457681074,
+    "binarity": 0.8372627317980417,
+    "current_source_eta": "69.09524079505356",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 28.21712735664632",
+    "grad_L1_norm": 37.661182487504725,
+    "relative_grad_L1_norm": 89.42438359435053
+  },
+  {
+    "iteration": 206,
+    "beta": 135.0,
+    "fitness": 0.498678630712988,
+    "binarity": 0.8384661670586948,
+    "current_source_eta": "70.07813401184926",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 33.411468257770196",
+    "grad_L1_norm": 42.07447593616271,
+    "relative_grad_L1_norm": 84.37192464340133
+  },
+  {
+    "iteration": 207,
+    "beta": 135.0,
+    "fitness": 0.547789732498929,
+    "binarity": 0.8379738526338821,
+    "current_source_eta": "69.7939690616338",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 36.70191207742825",
+    "grad_L1_norm": 41.68583723404008,
+    "relative_grad_L1_norm": 76.09824479144164
+  },
+  {
+    "iteration": 208,
+    "beta": 135.0,
+    "fitness": 0.58011475892855,
+    "binarity": 0.8377550462228543,
+    "current_source_eta": "69.0295439362695",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 38.86768884821285",
+    "grad_L1_norm": 39.51650136276531,
+    "relative_grad_L1_norm": 68.11842085802536
+  },
+  {
+    "iteration": 209,
+    "beta": 135.0,
+    "fitness": 0.539677916750949,
+    "binarity": 0.8393960943055632,
+    "current_source_eta": "67.62798629120805",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 36.15842042231358",
+    "grad_L1_norm": 55.30602336991674,
+    "relative_grad_L1_norm": 102.4796856621423
+  },
+  {
+    "iteration": 210,
+    "beta": 135.0,
+    "fitness": 0.6195482065460874,
+    "binarity": 0.8379191510311252,
+    "current_source_eta": "68.63322978544696",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 41.50972983858786",
+    "grad_L1_norm": 36.35775884750564,
+    "relative_grad_L1_norm": 58.68430963832792
+  },
+  {
+    "iteration": 211,
+    "beta": 135.0,
+    "fitness": 0.5474325348558734,
+    "binarity": 0.8390678846890214,
+    "current_source_eta": "70.5306934787119",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 36.67797983534352",
+    "grad_L1_norm": 52.06706392338445,
+    "relative_grad_L1_norm": 95.11137996571789
+  },
+  {
+    "iteration": 212,
+    "beta": 135.0,
+    "fitness": 0.6378809561928107,
+    "binarity": 0.8378097478256112,
+    "current_source_eta": "68.88985733061955",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 42.73802406491832",
+    "grad_L1_norm": 32.75411621944606,
+    "relative_grad_L1_norm": 51.348321109303086
+  },
+  {
+    "iteration": 213,
+    "beta": 135.0,
+    "fitness": 0.64868139008547,
+    "binarity": 0.8386849734697226,
+    "current_source_eta": "70.40102701375933",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 43.461653135726486",
+    "grad_L1_norm": 36.80908480641555,
+    "relative_grad_L1_norm": 56.744474733306475
+  },
+  {
+    "iteration": 214,
+    "beta": 135.0,
+    "fitness": 0.6905276234047497,
+    "binarity": 0.8377550462228543,
+    "current_source_eta": "70.06074574399177",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 46.26535076811823",
+    "grad_L1_norm": 32.978399087900144,
+    "relative_grad_L1_norm": 47.75826183105747
+  },
+  {
+    "iteration": 215,
+    "beta": 135.0,
+    "fitness": 0.7132976242875599,
+    "binarity": 0.8378097478256112,
+    "current_source_eta": "70.0031968533371",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 47.79094082726652",
+    "grad_L1_norm": 29.635754773508108,
+    "relative_grad_L1_norm": 41.54753040368065
+  },
+  {
+    "iteration": 216,
+    "beta": 135.0,
+    "fitness": 0.7355667120832721,
+    "binarity": 0.8369892237842569,
+    "current_source_eta": "70.26401345562101",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 49.28296970957923",
+    "grad_L1_norm": 42.47514671556435,
+    "relative_grad_L1_norm": 57.7447918184354
+  },
+  {
+    "iteration": 217,
+    "beta": 135.0,
+    "fitness": 0.7667141791307813,
+    "binarity": 0.8373174334007987,
+    "current_source_eta": "69.50187845171465",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 51.36985000176235",
+    "grad_L1_norm": 31.313214086023052,
+    "relative_grad_L1_norm": 40.840791650262474
+  },
+  {
+    "iteration": 218,
+    "beta": 135.0,
+    "fitness": 0.7884271412239253,
+    "binarity": 0.8379191510311252,
+    "current_source_eta": "68.76264223876713",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 52.824618462002995",
+    "grad_L1_norm": 30.89222297470143,
+    "relative_grad_L1_norm": 39.18208965709043
+  },
+  {
+    "iteration": 219,
+    "beta": 135.0,
+    "fitness": 0.8004672131640241,
+    "binarity": 0.8385208686614518,
+    "current_source_eta": "68.50259306627403",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 53.63130328198962",
+    "grad_L1_norm": 32.36923695656981,
+    "relative_grad_L1_norm": 40.43792972879588
+  },
+  {
+    "iteration": 220,
+    "beta": 135.0,
+    "fitness": 0.8183117602101269,
+    "binarity": 0.8391225862917784,
+    "current_source_eta": "68.15946083010846",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 54.8268879340785",
+    "grad_L1_norm": 28.265840691721447,
+    "relative_grad_L1_norm": 34.54165274359697
+  },
+  {
+    "iteration": 221,
+    "beta": 135.0,
+    "fitness": 0.8413346298737503,
+    "binarity": 0.8392866911000492,
+    "current_source_eta": "68.1105112376501",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 56.36942020154127",
+    "grad_L1_norm": 33.159891691894956,
+    "relative_grad_L1_norm": 39.41343964108247
+  },
+  {
+    "iteration": 222,
+    "beta": 135.0,
+    "fitness": 0.8680530957756848,
+    "binarity": 0.8390131830862644,
+    "current_source_eta": "67.67113149365639",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 58.159557416970884",
+    "grad_L1_norm": 23.974655220832375,
+    "relative_grad_L1_norm": 27.618881045277476
+  },
+  {
+    "iteration": 223,
+    "beta": 135.0,
+    "fitness": 0.8847621525529779,
+    "binarity": 0.8393413927028062,
+    "current_source_eta": "66.7066593153715",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 59.27906422104952",
+    "grad_L1_norm": 43.895645247642165,
+    "relative_grad_L1_norm": 49.61293277675646
+  },
+  {
+    "iteration": 224,
+    "beta": 135.0,
+    "fitness": 0.8921197256533553,
+    "binarity": 0.8392866911000493,
+    "current_source_eta": "67.27936967522032",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 59.77202161877481",
+    "grad_L1_norm": 25.32610395506101,
+    "relative_grad_L1_norm": 28.388682817347675
+  },
+  {
+    "iteration": 225,
+    "beta": 135.0,
+    "fitness": 0.9051337005652264,
+    "binarity": 0.8393960943055632,
+    "current_source_eta": "67.01611760277177",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 60.64395793787016",
+    "grad_L1_norm": 19.044076096799618,
+    "relative_grad_L1_norm": 21.040069620507055
+  },
+  {
+    "iteration": 226,
+    "beta": 135.0,
+    "fitness": 0.9057779297085123,
+    "binarity": 0.839779005524862,
+    "current_source_eta": "66.83154449408761",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 60.68712129047033",
+    "grad_L1_norm": 20.63708326924323,
+    "relative_grad_L1_norm": 22.783822137398083
+  },
+  {
+    "iteration": 227,
+    "beta": 135.0,
+    "fitness": 0.9124285370533322,
+    "binarity": 0.839669602319348,
+    "current_source_eta": "67.03199664558649",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.132711982573255",
+    "grad_L1_norm": 19.718612437240665,
+    "relative_grad_L1_norm": 21.611130751467243
+  },
+  {
+    "iteration": 228,
+    "beta": 135.0,
+    "fitness": 0.9199841142743748,
+    "binarity": 0.8394507959083202,
+    "current_source_eta": "67.33224750823322",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.63893565638311",
+    "grad_L1_norm": 18.844888430697523,
+    "relative_grad_L1_norm": 20.483928056820037
+  },
+  {
+    "iteration": 229,
+    "beta": 135.0,
+    "fitness": 0.9244985761657795,
+    "binarity": 0.8394507959083202,
+    "current_source_eta": "67.85367795482927",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.94140460310722",
+    "grad_L1_norm": 24.894239648660967,
+    "relative_grad_L1_norm": 26.92728822252906
+  },
+  {
+    "iteration": 230,
+    "beta": 135.0,
+    "fitness": 0.9094804101207036,
+    "binarity": 0.8393413927028062,
+    "current_source_eta": "67.94964680327831",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 60.93518747808714",
+    "grad_L1_norm": 21.5867154697382,
+    "relative_grad_L1_norm": 23.735217609731755
+  },
+  {
+    "iteration": 231,
+    "beta": 135.0,
+    "fitness": 0.9253517689188381,
+    "binarity": 0.8393960943055632,
+    "current_source_eta": "67.87094377708833",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.99856851756215",
+    "grad_L1_norm": 24.272203211760324,
+    "relative_grad_L1_norm": 26.230244541369625
+  },
+  {
+    "iteration": 232,
+    "beta": 135.0,
+    "fitness": 0.9095873154418748,
+    "binarity": 0.8390678846890214,
+    "current_source_eta": "67.53912219272559",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 60.94235013460561",
+    "grad_L1_norm": 43.341528936576665,
+    "relative_grad_L1_norm": 47.649662823048295
+  },
+  {
+    "iteration": 233,
+    "beta": 135.0,
+    "fitness": 0.9340841847850481,
+    "binarity": 0.8394507959083202,
+    "current_source_eta": "67.66590723602401",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 62.58364038059822",
+    "grad_L1_norm": 16.534943822242354,
+    "relative_grad_L1_norm": 17.70177043340651
+  },
+  {
+    "iteration": 234,
+    "beta": 135.0,
+    "fitness": 0.9377803406189897,
+    "binarity": 0.8392866911000492,
+    "current_source_eta": "67.63129200161916",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 62.831282821472314",
+    "grad_L1_norm": 13.601043282510304,
+    "relative_grad_L1_norm": 14.503442521549747
+  },
+  {
+    "iteration": 235,
+    "beta": 135.0,
+    "fitness": 0.9472772145057947,
+    "binarity": 0.8392866911000492,
+    "current_source_eta": "67.68133698532952",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.46757337188824",
+    "grad_L1_norm": 10.881170660690016,
+    "relative_grad_L1_norm": 11.486786003693819
+  },
+  {
+    "iteration": 236,
+    "beta": 135.0,
+    "fitness": 0.9520392646757958,
+    "binarity": 0.8401619167441606,
+    "current_source_eta": "67.91688932844453",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.78663073327832",
+    "grad_L1_norm": 10.054100764875018,
+    "relative_grad_L1_norm": 10.560594638644671
+  },
+  {
+    "iteration": 237,
+    "beta": 135.0,
+    "fitness": 0.9592441113163521,
+    "binarity": 0.8403807231551885,
+    "current_source_eta": "68.04412464893558",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.26935545819559",
+    "grad_L1_norm": 10.466457700806451,
+    "relative_grad_L1_norm": 10.911151360139582
+  },
+  {
+    "iteration": 238,
+    "beta": 135.0,
+    "fitness": 0.9664084243838345,
+    "binarity": 0.8408730375800011,
+    "current_source_eta": "67.87348168500863",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.7493644337169",
+    "grad_L1_norm": 9.188915748571562,
+    "relative_grad_L1_norm": 9.508315022110805
+  },
+  {
+    "iteration": 239,
+    "beta": 135.0,
+    "fitness": 0.9756861631306029,
+    "binarity": 0.8400525135386467,
+    "current_source_eta": "67.90052972487872",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.3709729297504",
+    "grad_L1_norm": 10.153777538208715,
+    "relative_grad_L1_norm": 10.406806933924663
+  },
+  {
+    "iteration": 240,
+    "beta": 135.0,
+    "fitness": 0.9771396924614525,
+    "binarity": 0.8399431103331327,
+    "current_source_eta": "67.73298500200424",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.46835939491731",
+    "grad_L1_norm": 8.190101153817789,
+    "relative_grad_L1_norm": 8.38170960469828
+  },
+  {
+    "iteration": 241,
+    "beta": 135.0,
+    "fitness": 0.975038735632477,
+    "binarity": 0.839779005524862,
+    "current_source_eta": "67.74910928616927",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.32759528737596",
+    "grad_L1_norm": 9.818019572567573,
+    "relative_grad_L1_norm": 10.069363609569388
+  },
+  {
+    "iteration": 242,
+    "beta": 135.0,
+    "fitness": 0.9774002690756871,
+    "binarity": 0.8398884087303757,
+    "current_source_eta": "67.73084104332462",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.48581802807104",
+    "grad_L1_norm": 7.968204255420503,
+    "relative_grad_L1_norm": 8.152447364070676
+  },
+  {
+    "iteration": 243,
+    "beta": 135.0,
+    "fitness": 0.9802811580125189,
+    "binarity": 0.8398337071276188,
+    "current_source_eta": "67.92833063616304",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.67883758683877",
+    "grad_L1_norm": 16.30410613994059,
+    "relative_grad_L1_norm": 16.632071309382756
+  },
+  {
+    "iteration": 244,
+    "beta": 135.0,
+    "fitness": 0.976095231706491,
+    "binarity": 0.8399431103331327,
+    "current_source_eta": "67.8578763296232",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.3983805243349",
+    "grad_L1_norm": 7.367449970931214,
+    "relative_grad_L1_norm": 7.547880292892062
+  },
+  {
+    "iteration": 245,
+    "beta": 135.0,
+    "fitness": 0.979301284104594,
+    "binarity": 0.8398337071276188,
+    "current_source_eta": "67.93970105006173",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.6131860350078",
+    "grad_L1_norm": 14.186219124490464,
+    "relative_grad_L1_norm": 14.486061991612019
+  },
+  {
+    "iteration": 246,
+    "beta": 135.0,
+    "fitness": 0.978645252360081,
+    "binarity": 0.8398337071276188,
+    "current_source_eta": "67.95613627429029",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.56923190812543",
+    "grad_L1_norm": 15.816991091721544,
+    "relative_grad_L1_norm": 16.162129267388238
+  },
+  {
+    "iteration": 247,
+    "beta": 135.0,
+    "fitness": 0.9802818294565842,
+    "binarity": 0.8398337071276188,
+    "current_source_eta": "67.9283152210492",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.67888257359114",
+    "grad_L1_norm": 16.302814276459408,
+    "relative_grad_L1_norm": 16.630742068192852
+  },
+  {
+    "iteration": 248,
+    "beta": 135.0,
+    "fitness": 0.9767238542374167,
+    "binarity": 0.8400525135386467,
+    "current_source_eta": "67.87714515049043",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.44049823390692",
+    "grad_L1_norm": 7.837504418225235,
+    "relative_grad_L1_norm": 8.024278690643976
+  },
+  {
+    "iteration": 249,
+    "beta": 135.0,
+    "fitness": 0.9780242611057618,
+    "binarity": 0.8398337071276188,
+    "current_source_eta": "67.91599227015584",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.52762549408604",
+    "grad_L1_norm": 14.334781937303308,
+    "relative_grad_L1_norm": 14.656877638637937
+  },
+  {
+    "iteration": 250,
+    "beta": 135.0,
+    "fitness": 0.9786845146031619,
+    "binarity": 0.839779005524862,
+    "current_source_eta": "67.95582070577049",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.57186247841184",
+    "grad_L1_norm": 15.754604129764827,
+    "relative_grad_L1_norm": 16.097735152226544
+  },
+  {
+    "iteration": 251,
+    "beta": 135.0,
+    "fitness": 0.9802833651593631,
+    "binarity": 0.8398337071276188,
+    "current_source_eta": "67.92829230403959",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.67898546567733",
+    "grad_L1_norm": 16.300176776408566,
+    "relative_grad_L1_norm": 16.628025466014765
+  },
+  {
+    "iteration": 252,
+    "beta": 405.0,
+    "fitness": 0.8377578073845399,
+    "binarity": 0.948580493408457,
+    "current_source_eta": "66.48102662364963",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 56.12977309476417",
+    "grad_L1_norm": 73.26918248183755,
+    "relative_grad_L1_norm": 87.45866854183495
+  },
+  {
+    "iteration": 253,
+    "beta": 405.0,
+    "fitness": 0.0009927802408725068,
+    "binarity": 0.9548711777255073,
+    "current_source_eta": "69.41029077112772",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 0.06651627613845795",
+    "grad_L1_norm": 1.6335177212102518,
+    "relative_grad_L1_norm": 1645.39543452154
+  },
+  {
+    "iteration": 254,
+    "beta": 405.0,
+    "fitness": 0.03917925437157776,
+    "binarity": 0.951151468738034,
+    "current_source_eta": "68.74313017640937",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 2.6250100428957097",
+    "grad_L1_norm": 18.587919264373483,
+    "relative_grad_L1_norm": 474.4326835230749
+  },
+  {
+    "iteration": 255,
+    "beta": 405.0,
+    "fitness": 0.06398565428024415,
+    "binarity": 0.946994146928505,
+    "current_source_eta": "70.86003562771961",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 4.287038836776358",
+    "grad_L1_norm": 35.60829643752071,
+    "relative_grad_L1_norm": 556.5043646355361
+  },
+  {
+    "iteration": 256,
+    "beta": 405.0,
+    "fitness": 0.43106833587529736,
+    "binarity": 0.948580493408457,
+    "current_source_eta": "70.0412307778816",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 28.881578503644924",
+    "grad_L1_norm": 54.26215902744481,
+    "relative_grad_L1_norm": 125.87832226504301
+  },
+  {
+    "iteration": 257,
+    "beta": 405.0,
+    "fitness": 0.8109640934965041,
+    "binarity": 0.9482522837919151,
+    "current_source_eta": "65.52223231256845",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 54.334594264265775",
+    "grad_L1_norm": 78.90453769936146,
+    "relative_grad_L1_norm": 97.29720247152274
+  },
+  {
+    "iteration": 258,
+    "beta": 405.0,
+    "fitness": 0.8880558361146856,
+    "binarity": 0.9485257918057,
+    "current_source_eta": "65.278062944857",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 59.49974101968394",
+    "grad_L1_norm": 54.77945350868783,
+    "relative_grad_L1_norm": 61.68469506001736
+  },
+  {
+    "iteration": 259,
+    "beta": 405.0,
+    "fitness": 0.8991346924519074,
+    "binarity": 0.9485257918057,
+    "current_source_eta": "65.78109145868292",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 60.24202439427779",
+    "grad_L1_norm": 45.99973877729903,
+    "relative_grad_L1_norm": 51.160008742071135
+  },
+  {
+    "iteration": 260,
+    "beta": 405.0,
+    "fitness": 0.9193971526242942,
+    "binarity": 0.948471090202943,
+    "current_source_eta": "66.4568123156995",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.59960922582771",
+    "grad_L1_norm": 34.6433999567514,
+    "relative_grad_L1_norm": 37.68056037609641
+  },
+  {
+    "iteration": 261,
+    "beta": 405.0,
+    "fitness": 0.9425517612324312,
+    "binarity": 0.948471090202943,
+    "current_source_eta": "67.12065698113601",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.150968002572895",
+    "grad_L1_norm": 19.17434644858203,
+    "relative_grad_L1_norm": 20.34301692160401
+  },
+  {
+    "iteration": 262,
+    "beta": 405.0,
+    "fitness": 0.9497911494591355,
+    "binarity": 0.9482522837919151,
+    "current_source_eta": "67.1442212946195",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.636007013762075",
+    "grad_L1_norm": 17.9564595482298,
+    "relative_grad_L1_norm": 18.905692624688626
+  },
+  {
+    "iteration": 263,
+    "beta": 405.0,
+    "fitness": 0.9556813328921897,
+    "binarity": 0.9479240741753734,
+    "current_source_eta": "66.90896059866704",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.03064930377671",
+    "grad_L1_norm": 21.076955602527917,
+    "relative_grad_L1_norm": 22.054376134655787
+  },
+  {
+    "iteration": 264,
+    "beta": 405.0,
+    "fitness": 0.964377585869248,
+    "binarity": 0.9479787757781303,
+    "current_source_eta": "67.11641292131942",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.61329825323962",
+    "grad_L1_norm": 15.231045415041791,
+    "relative_grad_L1_norm": 15.79365346356483
+  },
+  {
+    "iteration": 265,
+    "beta": 405.0,
+    "fitness": 0.9668463625721189,
+    "binarity": 0.9478146709698594,
+    "current_source_eta": "67.41446681650285",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.77870629233196",
+    "grad_L1_norm": 14.586052318207528,
+    "relative_grad_L1_norm": 15.086215212433313
+  },
+  {
+    "iteration": 266,
+    "beta": 405.0,
+    "fitness": 0.968090652930836,
+    "binarity": 0.9477599693671024,
+    "current_source_eta": "67.357567298141",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.86207374636601",
+    "grad_L1_norm": 19.949914227930442,
+    "relative_grad_L1_norm": 20.607485618134827
+  },
+  {
+    "iteration": 267,
+    "beta": 405.0,
+    "fitness": 0.9543840559682447,
+    "binarity": 0.9477599693671024,
+    "current_source_eta": "66.57300453105402",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.9437317498724",
+    "grad_L1_norm": 37.55873046278341,
+    "relative_grad_L1_norm": 39.35389551884887
+  },
+  {
+    "iteration": 268,
+    "beta": 405.0,
+    "fitness": 0.969495722990429,
+    "binarity": 0.9479240741753733,
+    "current_source_eta": "67.18305717344698",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.95621344035874",
+    "grad_L1_norm": 13.931252343552941,
+    "relative_grad_L1_norm": 14.369586166107188
+  },
+  {
+    "iteration": 269,
+    "beta": 405.0,
+    "fitness": 0.9710835905394003,
+    "binarity": 0.9479240741753733,
+    "current_source_eta": "67.28881847710976",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.06260056613982",
+    "grad_L1_norm": 12.100458784917183,
+    "relative_grad_L1_norm": 12.460779782855825
+  },
+  {
+    "iteration": 270,
+    "beta": 405.0,
+    "fitness": 0.9685891416984926,
+    "binarity": 0.9477052677643454,
+    "current_source_eta": "67.50815774948512",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.895472493799",
+    "grad_L1_norm": 14.205349912616045,
+    "relative_grad_L1_norm": 14.666022244519375
+  },
+  {
+    "iteration": 271,
+    "beta": 405.0,
+    "fitness": 0.970184615174217,
+    "binarity": 0.9479787757781303,
+    "current_source_eta": "67.30206224900002",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.00236921667253",
+    "grad_L1_norm": 11.985406870636556,
+    "relative_grad_L1_norm": 12.3537383203408
+  },
+  {
+    "iteration": 272,
+    "beta": 405.0,
+    "fitness": 0.9710880607576154,
+    "binarity": 0.9479240741753733,
+    "current_source_eta": "67.28973655369894",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.06290007076024",
+    "grad_L1_norm": 12.08992297132594,
+    "relative_grad_L1_norm": 12.449872928562062
+  },
+  {
+    "iteration": 273,
+    "beta": 405.0,
+    "fitness": 0.9724487786504976,
+    "binarity": 0.9478146709698594,
+    "current_source_eta": "67.54882252940983",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.15406816958334",
+    "grad_L1_norm": 11.74346029119876,
+    "relative_grad_L1_norm": 12.076173611343737
+  },
+  {
+    "iteration": 274,
+    "beta": 405.0,
+    "fitness": 0.9731718084889192,
+    "binarity": 0.9478146709698594,
+    "current_source_eta": "67.62600857340227",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.20251116875758",
+    "grad_L1_norm": 10.914872201817465,
+    "relative_grad_L1_norm": 11.21577104411772
+  },
+  {
+    "iteration": 275,
+    "beta": 405.0,
+    "fitness": 0.9753636493436302,
+    "binarity": 0.9476505661615886,
+    "current_source_eta": "67.85650406940218",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.34936450602322",
+    "grad_L1_norm": 12.539279092821536,
+    "relative_grad_L1_norm": 12.856004105139478
+  },
+  {
+    "iteration": 276,
+    "beta": 405.0,
+    "fitness": 0.9669767322879936,
+    "binarity": 0.9476505661615886,
+    "current_source_eta": "67.54576839795385",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.78744106329557",
+    "grad_L1_norm": 11.4933105311182,
+    "relative_grad_L1_norm": 11.885819105530805
+  },
+  {
+    "iteration": 277,
+    "beta": 405.0,
+    "fitness": 0.9753985770795928,
+    "binarity": 0.9476505661615886,
+    "current_source_eta": "67.85312978253576",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.35170466433271",
+    "grad_L1_norm": 12.519124008605562,
+    "relative_grad_L1_norm": 12.834880314521023
+  },
+  {
+    "iteration": 278,
+    "beta": 405.0,
+    "fitness": 0.9780078197071228,
+    "binarity": 0.9475958645588316,
+    "current_source_eta": "67.38906567693056",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.52652392037723",
+    "grad_L1_norm": 10.149617636017956,
+    "relative_grad_L1_norm": 10.377849155316103
+  },
+  {
+    "iteration": 279,
+    "beta": 405.0,
+    "fitness": 0.9795731325005426,
+    "binarity": 0.9474864613533176,
+    "current_source_eta": "67.38178002457686",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.63139987753635",
+    "grad_L1_norm": 8.321133758174101,
+    "relative_grad_L1_norm": 8.494652898899144
+  },
+  {
+    "iteration": 280,
+    "beta": 405.0,
+    "fitness": 0.980390401208467,
+    "binarity": 0.9475958645588316,
+    "current_source_eta": "67.48716837384806",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.68615688096729",
+    "grad_L1_norm": 7.443295481449756,
+    "relative_grad_L1_norm": 7.592174979153905
+  },
+  {
+    "iteration": 281,
+    "beta": 405.0,
+    "fitness": 0.9814849038516171,
+    "binarity": 0.9477052677643455,
+    "current_source_eta": "67.53987073123179",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.75948855805835",
+    "grad_L1_norm": 7.771712406144136,
+    "relative_grad_L1_norm": 7.918320870476434
+  },
+  {
+    "iteration": 282,
+    "beta": 405.0,
+    "fitness": 0.982656120252603,
+    "binarity": 0.9474317597505607,
+    "current_source_eta": "67.61211473893476",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.8379600569244",
+    "grad_L1_norm": 8.157388698264427,
+    "relative_grad_L1_norm": 8.30136659390684
+  },
+  {
+    "iteration": 283,
+    "beta": 405.0,
+    "fitness": 0.9823954184302066,
+    "binarity": 0.9478693725726164,
+    "current_source_eta": "67.75959889307711",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.82049303482384",
+    "grad_L1_norm": 6.987786050770085,
+    "relative_grad_L1_norm": 7.113007565551384
+  },
+  {
+    "iteration": 284,
+    "beta": 405.0,
+    "fitness": 0.9807804904213517,
+    "binarity": 0.9476505661615886,
+    "current_source_eta": "67.66698202986768",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.71229285823057",
+    "grad_L1_norm": 7.177123803292507,
+    "relative_grad_L1_norm": 7.317767702425836
+  },
+  {
+    "iteration": 285,
+    "beta": 405.0,
+    "fitness": 0.9826728644358004,
+    "binarity": 0.9474864613533177,
+    "current_source_eta": "67.61297567419982",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.83908191719863",
+    "grad_L1_norm": 8.148309262486888,
+    "relative_grad_L1_norm": 8.291985613007883
+  },
+  {
+    "iteration": 286,
+    "beta": 405.0,
+    "fitness": 0.9844995150364683,
+    "binarity": 0.9479240741753733,
+    "current_source_eta": "67.8151378478098",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.96146750744337",
+    "grad_L1_norm": 8.285943200263514,
+    "relative_grad_L1_norm": 8.41640149669366
+  },
+  {
+    "iteration": 287,
+    "beta": 405.0,
+    "fitness": 0.9833920672141948,
+    "binarity": 0.9477052677643456,
+    "current_source_eta": "67.96994175601402",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.88726850335105",
+    "grad_L1_norm": 12.34265493781138,
+    "relative_grad_L1_norm": 12.551102796898906
+  },
+  {
+    "iteration": 288,
+    "beta": 405.0,
+    "fitness": 0.9846601142057514,
+    "binarity": 0.9478693725726164,
+    "current_source_eta": "67.81112645497642",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.97222765178535",
+    "grad_L1_norm": 7.094350723968079,
+    "relative_grad_L1_norm": 7.204872640226386
+  },
+  {
+    "iteration": 289,
+    "beta": 405.0,
+    "fitness": 0.9855445369291943,
+    "binarity": 0.9479787757781302,
+    "current_source_eta": "67.77753329336855",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.03148397425603",
+    "grad_L1_norm": 8.007111431458947,
+    "relative_grad_L1_norm": 8.124555637316323
+  },
+  {
+    "iteration": 290,
+    "beta": 405.0,
+    "fitness": 0.9851376806130346,
+    "binarity": 0.9479240741753734,
+    "current_source_eta": "68.13318823919063",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.00422460107332",
+    "grad_L1_norm": 24.383263933494003,
+    "relative_grad_L1_norm": 24.751123004014612
+  },
+  {
+    "iteration": 291,
+    "beta": 405.0,
+    "fitness": 0.9859287037851296,
+    "binarity": 0.9478693725726164,
+    "current_source_eta": "67.68815522089957",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.05722315360369",
+    "grad_L1_norm": 8.144138938237683,
+    "relative_grad_L1_norm": 8.26037308652312
+  },
+  {
+    "iteration": 292,
+    "beta": 405.0,
+    "fitness": 0.9858023365210259,
+    "binarity": 0.9478693725726164,
+    "current_source_eta": "67.76213326631328",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.04875654690873",
+    "grad_L1_norm": 6.31899447830931,
+    "relative_grad_L1_norm": 6.410001516327846
+  },
+  {
+    "iteration": 293,
+    "beta": 405.0,
+    "fitness": 0.9859274681667036,
+    "binarity": 0.9479240741753734,
+    "current_source_eta": "67.70307030792043",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.05714036716914",
+    "grad_L1_norm": 7.427977516969319,
+    "relative_grad_L1_norm": 7.533999963757348
+  },
+  {
+    "iteration": 294,
+    "beta": 405.0,
+    "fitness": 0.9859295408077303,
+    "binarity": 0.9478693725726164,
+    "current_source_eta": "67.69139399921507",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.05727923411793",
+    "grad_L1_norm": 13.301134505828415,
+    "relative_grad_L1_norm": 13.490958472996358
+  },
+  {
+    "iteration": 295,
+    "beta": 405.0,
+    "fitness": 0.0014544300087158907,
+    "binarity": 0.9566216290137302,
+    "current_source_eta": "67.80758860983566",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 0.09744681058396468",
+    "grad_L1_norm": 1.3030930724601626,
+    "relative_grad_L1_norm": 895.9469817758194
+  },
+  {
+    "iteration": 296,
+    "beta": 405.0,
+    "fitness": 0.07281243363838612,
+    "binarity": 0.948471090202943,
+    "current_source_eta": "68.70883947308856",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 4.87843305377187",
+    "grad_L1_norm": 24.585121603403028,
+    "relative_grad_L1_norm": 337.65004185757516
+  },
+  {
+    "iteration": 297,
+    "beta": 405.0,
+    "fitness": 0.2387389145833121,
+    "binarity": 0.948416388600186,
+    "current_source_eta": "71.39614435347784",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 15.99550727708191",
+    "grad_L1_norm": 45.32249234823519,
+    "relative_grad_L1_norm": 189.8412424195632
+  },
+  {
+    "iteration": 298,
+    "beta": 405.0,
+    "fitness": 0.6219491018318022,
+    "binarity": 0.9477599693671024,
+    "current_source_eta": "68.6698794402871",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 41.67058982273075",
+    "grad_L1_norm": 132.78414487637863,
+    "relative_grad_L1_norm": 213.4968026672889
+  },
+  {
+    "iteration": 299,
+    "beta": 405.0,
+    "fitness": 0.9827878559063798,
+    "binarity": 0.9478693725726164,
+    "current_source_eta": "67.64467476979222",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.84678634572745",
+    "grad_L1_norm": 7.210784341970386,
+    "relative_grad_L1_norm": 7.337071058924656
+  },
+  {
+    "iteration": 300,
+    "beta": 405.0,
+    "fitness": 0.9859307843831047,
+    "binarity": 0.9478693725726164,
+    "current_source_eta": "67.69325165369365",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.05736255366801",
+    "grad_L1_norm": 7.580534439831291,
+    "relative_grad_L1_norm": 7.68870853027042
+  },
+  {
+    "iteration": 301,
+    "beta": 1215.0,
+    "fitness": 0.9729966981288555,
+    "binarity": 0.981893769487446,
+    "current_source_eta": "67.42303660362137",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.19077877463332",
+    "grad_L1_norm": 26.8987105927741,
+    "relative_grad_L1_norm": 27.645222863404456
+  },
+  {
+    "iteration": 302,
+    "beta": 1215.0,
+    "fitness": 0.11300459856311487,
+    "binarity": 0.9868169137355725,
+    "current_source_eta": "72.45981519468484",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 7.571308103728696",
+    "grad_L1_norm": 41.067960889895815,
+    "relative_grad_L1_norm": 363.4184895895207
+  },
+  {
+    "iteration": 303,
+    "beta": 1215.0,
+    "fitness": 0.16734327974164354,
+    "binarity": 0.9857228816804333,
+    "current_source_eta": "71.82668788561486",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 11.211999742690116",
+    "grad_L1_norm": 41.787774637493285,
+    "relative_grad_L1_norm": 249.7128922792438
+  },
+  {
+    "iteration": 304,
+    "beta": 1215.0,
+    "fitness": 0.39957121986331195,
+    "binarity": 0.9841365352004814,
+    "current_source_eta": "71.89009287392507",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 26.7712717308419",
+    "grad_L1_norm": 55.46122086791031,
+    "relative_grad_L1_norm": 138.80184050312988
+  },
+  {
+    "iteration": 305,
+    "beta": 1215.0,
+    "fitness": 0.29957478237114366,
+    "binarity": 0.9827689951315574,
+    "current_source_eta": "71.57695487576616",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 20.071510418866627",
+    "grad_L1_norm": 74.60332659126446,
+    "relative_grad_L1_norm": 249.03072866062388
+  },
+  {
+    "iteration": 306,
+    "beta": 1215.0,
+    "fitness": 0.9341203232101888,
+    "binarity": 0.9817296646791751,
+    "current_source_eta": "68.93454886011418",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 62.586061655082645",
+    "grad_L1_norm": 77.72615269676825,
+    "relative_grad_L1_norm": 83.20785950405988
+  },
+  {
+    "iteration": 307,
+    "beta": 1215.0,
+    "fitness": 0.9747077550972484,
+    "binarity": 0.981839067884689,
+    "current_source_eta": "67.71723008333784",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.30541959151564",
+    "grad_L1_norm": 16.126038826338664,
+    "relative_grad_L1_norm": 16.54448600153515
+  },
+  {
+    "iteration": 308,
+    "beta": 1215.0,
+    "fitness": 0.9777774558251628,
+    "binarity": 0.981893769487446,
+    "current_source_eta": "67.64809780895729",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.51108954028591",
+    "grad_L1_norm": 14.911164686847247,
+    "relative_grad_L1_norm": 15.250059799152767
+  },
+  {
+    "iteration": 309,
+    "beta": 1215.0,
+    "fitness": 0.9785298606189949,
+    "binarity": 0.9817843662819321,
+    "current_source_eta": "67.45732683292938",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.56150066147266",
+    "grad_L1_norm": 10.231126189452432,
+    "relative_grad_L1_norm": 10.45560957386099
+  },
+  {
+    "iteration": 310,
+    "beta": 1215.0,
+    "fitness": 0.9800774789842035,
+    "binarity": 0.9817843662819321,
+    "current_source_eta": "67.4739522425457",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.66519109194164",
+    "grad_L1_norm": 9.59815825472392,
+    "relative_grad_L1_norm": 9.793264768086111
+  },
+  {
+    "iteration": 311,
+    "beta": 1215.0,
+    "fitness": 0.9812233722827366,
+    "binarity": 0.9818937694874459,
+    "current_source_eta": "67.559663114501",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.74196594294335",
+    "grad_L1_norm": 8.056622862521008,
+    "relative_grad_L1_norm": 8.210793874148283
+  },
+  {
+    "iteration": 312,
+    "beta": 1215.0,
+    "fitness": 0.9821179663457633,
+    "binarity": 0.981893769487446,
+    "current_source_eta": "67.6826312393642",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.80190374516614",
+    "grad_L1_norm": 7.422268442606636,
+    "relative_grad_L1_norm": 7.557410300379487
+  },
+  {
+    "iteration": 313,
+    "beta": 1215.0,
+    "fitness": 0.98267567315954,
+    "binarity": 0.9818390678846891,
+    "current_source_eta": "67.6916108151368",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.83927010168918",
+    "grad_L1_norm": 6.45890949140605,
+    "relative_grad_L1_norm": 6.572778446897251
+  },
+  {
+    "iteration": 314,
+    "beta": 1215.0,
+    "fitness": 0.9835912673872246,
+    "binarity": 0.9819484710902029,
+    "current_source_eta": "67.62437356404894",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.90061491494404",
+    "grad_L1_norm": 6.38219525084474,
+    "relative_grad_L1_norm": 6.488666030260213
+  },
+  {
+    "iteration": 315,
+    "beta": 1215.0,
+    "fitness": 0.9834462639790098,
+    "binarity": 0.9820031726929599,
+    "current_source_eta": "67.67574956716759",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.89089968659366",
+    "grad_L1_norm": 7.059294294639486,
+    "relative_grad_L1_norm": 7.178118974085642
+  },
+  {
+    "iteration": 316,
+    "beta": 1215.0,
+    "fitness": 0.9831243107707253,
+    "binarity": 0.9819484710902029,
+    "current_source_eta": "67.69591639618993",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.86932882163859",
+    "grad_L1_norm": 7.157075094117118,
+    "relative_grad_L1_norm": 7.279928904643162
+  },
+  {
+    "iteration": 317,
+    "beta": 1215.0,
+    "fitness": 0.9835928513577792,
+    "binarity": 0.9819484710902029,
+    "current_source_eta": "67.6242879523318",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.9007210409712",
+    "grad_L1_norm": 6.3804881573094265,
+    "relative_grad_L1_norm": 6.4869200116844095
+  },
+  {
+    "iteration": 318,
+    "beta": 1215.0,
+    "fitness": 0.9906383879224004,
+    "binarity": 0.9820578742957169,
+    "current_source_eta": "67.44129939745336",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.37277199080083",
+    "grad_L1_norm": 6.221938577505424,
+    "relative_grad_L1_norm": 6.280736388858847
+  },
+  {
+    "iteration": 319,
+    "beta": 1215.0,
+    "fitness": 0.9840466176199054,
+    "binarity": 0.9820578742957169,
+    "current_source_eta": "67.65545404015629",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.93112338053366",
+    "grad_L1_norm": 6.364420529203417,
+    "relative_grad_L1_norm": 6.467600628646352
+  },
+  {
+    "iteration": 320,
+    "beta": 1215.0,
+    "fitness": 0.9848097543025609,
+    "binarity": 0.9820578742957169,
+    "current_source_eta": "67.47271484185126",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.98225353827158",
+    "grad_L1_norm": 5.711029047594047,
+    "relative_grad_L1_norm": 5.7991190855328805
+  },
+  {
+    "iteration": 321,
+    "beta": 1215.0,
+    "fitness": 0.9906385086637673,
+    "binarity": 0.9820578742957169,
+    "current_source_eta": "67.44131242368822",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.37278008047241",
+    "grad_L1_norm": 6.2217301646903875,
+    "relative_grad_L1_norm": 6.2805252410408565
+  },
+  {
+    "iteration": 322,
+    "beta": 1215.0,
+    "fitness": 0.986728328012834,
+    "binarity": 0.9824407855150156,
+    "current_source_eta": "67.63334794869442",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.11079797685989",
+    "grad_L1_norm": 8.0324385933334,
+    "relative_grad_L1_norm": 8.14047631668729
+  },
+  {
+    "iteration": 323,
+    "beta": 1215.0,
+    "fitness": 0.985074257117652,
+    "binarity": 0.9820578742957169,
+    "current_source_eta": "67.48572554151583",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.99997522688268",
+    "grad_L1_norm": 5.5096551578133015,
+    "relative_grad_L1_norm": 5.593136875124046
+  },
+  {
+    "iteration": 324,
+    "beta": 1215.0,
+    "fitness": 0.9906410276565109,
+    "binarity": 0.9820578742957169,
+    "current_source_eta": "67.4414834992888",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.37294885298623",
+    "grad_L1_norm": 6.218586128431454,
+    "relative_grad_L1_norm": 6.277335531786914
+  },
+  {
+    "iteration": 325,
+    "beta": 3645.0,
+    "fitness": 0.9719006491351813,
+    "binarity": 0.9942563317105191,
+    "current_source_eta": "67.95687809268428",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.11734349205715",
+    "grad_L1_norm": 27.303210436924605,
+    "relative_grad_L1_norm": 28.092594066201123
+  },
+  {
+    "iteration": 326,
+    "beta": 3645.0,
+    "fitness": 0.271923825047907,
+    "binarity": 0.995952081395985,
+    "current_source_eta": "73.6409639812542",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 18.21889627820977",
+    "grad_L1_norm": 59.33471012406971,
+    "relative_grad_L1_norm": 218.2034247841755
+  },
+  {
+    "iteration": 327,
+    "beta": 3645.0,
+    "fitness": 0.3528852933430492,
+    "binarity": 0.9954050653684153,
+    "current_source_eta": "66.09235779955803",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 23.643314653984294",
+    "grad_L1_norm": 86.00923859691015,
+    "relative_grad_L1_norm": 243.73143334586868
+  },
+  {
+    "iteration": 328,
+    "beta": 3645.0,
+    "fitness": 0.5291585449416873,
+    "binarity": 0.9953503637656582,
+    "current_source_eta": "67.62588459340006",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 35.45362251109305",
+    "grad_L1_norm": 84.28463125845116,
+    "relative_grad_L1_norm": 159.28048768154872
+  },
+  {
+    "iteration": 329,
+    "beta": 3645.0,
+    "fitness": 0.7498615079843076,
+    "binarity": 0.9948580493408457,
+    "current_source_eta": "65.18365713567314",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 50.24072103494861",
+    "grad_L1_norm": 87.54357015331667,
+    "relative_grad_L1_norm": 116.74631795929226
+  },
+  {
+    "iteration": 330,
+    "beta": 3645.0,
+    "fitness": 0.8408505098499899,
+    "binarity": 0.99442043651879,
+    "current_source_eta": "65.35330013836783",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 56.336984159949324",
+    "grad_L1_norm": 86.03839804215843,
+    "relative_grad_L1_norm": 102.32306091505477
+  },
+  {
+    "iteration": 331,
+    "beta": 3645.0,
+    "fitness": 0.9657803681144805,
+    "binarity": 0.9942563317105191,
+    "current_source_eta": "66.88549494897602",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.7072846636702",
+    "grad_L1_norm": 46.65812821188282,
+    "relative_grad_L1_norm": 48.311323882741
+  },
+  {
+    "iteration": 332,
+    "beta": 3645.0,
+    "fitness": 0.976683502977184,
+    "binarity": 0.9942563317105191,
+    "current_source_eta": "67.59980430971513",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.43779469947133",
+    "grad_L1_norm": 19.952426128684813,
+    "relative_grad_L1_norm": 20.428753068354183
+  },
+  {
+    "iteration": 333,
+    "beta": 3645.0,
+    "fitness": 0.9788298206067355,
+    "binarity": 0.9942563317105191,
+    "current_source_eta": "67.62341449160122",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.58159798065128",
+    "grad_L1_norm": 14.520935028897966,
+    "relative_grad_L1_norm": 14.834994509119118
+  },
+  {
+    "iteration": 334,
+    "beta": 3645.0,
+    "fitness": 0.9785057515376977,
+    "binarity": 0.9942016301077621,
+    "current_source_eta": "67.8735788581016",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.55988535302575",
+    "grad_L1_norm": 16.003223582927895,
+    "relative_grad_L1_norm": 16.354756772174785
+  },
+  {
+    "iteration": 335,
+    "beta": 3645.0,
+    "fitness": 0.9806387192785483,
+    "binarity": 0.9942016301077621,
+    "current_source_eta": "67.71495833195017",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.70279419166273",
+    "grad_L1_norm": 10.381401885475274,
+    "relative_grad_L1_norm": 10.586367508032376
+  },
+  {
+    "iteration": 336,
+    "beta": 3645.0,
+    "fitness": 0.9822146477762347,
+    "binarity": 0.9942016301077621,
+    "current_source_eta": "67.665180444812",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.80838140100772",
+    "grad_L1_norm": 11.150400247624615,
+    "relative_grad_L1_norm": 11.352304978873175
+  },
+  {
+    "iteration": 337,
+    "beta": 3645.0,
+    "fitness": 0.982097739718246,
+    "binarity": 0.9942563317105191,
+    "current_source_eta": "67.65308626796494",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.80054856112248",
+    "grad_L1_norm": 9.781389169420873,
+    "relative_grad_L1_norm": 9.959690124393694
+  },
+  {
+    "iteration": 338,
+    "beta": 3645.0,
+    "fitness": 0.9813201955157771,
+    "binarity": 0.9942016301077621,
+    "current_source_eta": "67.82105920309175",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.74845309955707",
+    "grad_L1_norm": 9.933819108676047,
+    "relative_grad_L1_norm": 10.122913136758555
+  },
+  {
+    "iteration": 339,
+    "beta": 3645.0,
+    "fitness": 0.982216690379667,
+    "binarity": 0.9942016301077621,
+    "current_source_eta": "67.66506515323255",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.80851825543769",
+    "grad_L1_norm": 11.148961233967258,
+    "relative_grad_L1_norm": 11.350816303383027
+  },
+  {
+    "iteration": 340,
+    "beta": 3645.0,
+    "fitness": 0.9832826010275295,
+    "binarity": 0.9940922269022483,
+    "current_source_eta": "67.5106374248538",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.87993426884448",
+    "grad_L1_norm": 8.266632308910319,
+    "relative_grad_L1_norm": 8.407178457001596
+  },
+  {
+    "iteration": 341,
+    "beta": 3645.0,
+    "fitness": 0.9822553731026085,
+    "binarity": 0.9940922269022483,
+    "current_source_eta": "67.5101401346911",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.81110999787477",
+    "grad_L1_norm": 7.258901860951252,
+    "relative_grad_L1_norm": 7.390035272225421
+  },
+  {
+    "iteration": 342,
+    "beta": 3645.0,
+    "fitness": 0.9833164450317233,
+    "binarity": 0.9940922269022483,
+    "current_source_eta": "67.51105567708856",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.88220181712546",
+    "grad_L1_norm": 8.17590280370251,
+    "relative_grad_L1_norm": 8.314620218849408
+  },
+  {
+    "iteration": 343,
+    "beta": 3645.0,
+    "fitness": 0.9866754192292326,
+    "binarity": 0.9940375252994913,
+    "current_source_eta": "67.45214318915644",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.10725308835859",
+    "grad_L1_norm": 6.474332531570224,
+    "relative_grad_L1_norm": 6.561765296703199
+  },
+  {
+    "iteration": 344,
+    "beta": 3645.0,
+    "fitness": 0.9824962644541536,
+    "binarity": 0.9940922269022483,
+    "current_source_eta": "67.75961741960873",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.82724971842829",
+    "grad_L1_norm": 7.57852684743829,
+    "relative_grad_L1_norm": 7.713542650398938
+  },
+  {
+    "iteration": 345,
+    "beta": 3645.0,
+    "fitness": 0.9846559406325145,
+    "binarity": 0.9940375252994913,
+    "current_source_eta": "67.46598462248309",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.97194802237847",
+    "grad_L1_norm": 6.2375921730333745,
+    "relative_grad_L1_norm": 6.334793616023616
+  },
+  {
+    "iteration": 346,
+    "beta": 3645.0,
+    "fitness": 0.9866754816409181,
+    "binarity": 0.9940375252994913,
+    "current_source_eta": "67.45217724200161",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.10725726994151",
+    "grad_L1_norm": 6.474099612060079,
+    "relative_grad_L1_norm": 6.561528816680048
+  },
+  {
+    "iteration": 347,
+    "beta": 3645.0,
+    "fitness": 0.982523687513327,
+    "binarity": 0.9940922269022483,
+    "current_source_eta": "67.72573412810654",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.8290870633929",
+    "grad_L1_norm": 6.770632468416156,
+    "relative_grad_L1_norm": 6.891062828888037
+  },
+  {
+    "iteration": 348,
+    "beta": 3645.0,
+    "fitness": 0.9846584834019073,
+    "binarity": 0.9940375252994913,
+    "current_source_eta": "67.46564817688535",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.9721183879278",
+    "grad_L1_norm": 6.225173353267438,
+    "relative_grad_L1_norm": 6.322164945390867
+  },
+  {
+    "iteration": 349,
+    "beta": 3645.0,
+    "fitness": 0.9866755639391454,
+    "binarity": 0.9940375252994913,
+    "current_source_eta": "67.45220706871497",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 66.10726278392274",
+    "grad_L1_norm": 6.473776497050565,
+    "relative_grad_L1_norm": 6.561200790910277
+  },
+  {
+    "iteration": 350,
+    "beta": 10935.0,
+    "fitness": 0.9751173088066878,
+    "binarity": 0.9980307423007494,
+    "current_source_eta": "67.71557935903083",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33285969004808",
+    "grad_L1_norm": 23.850970910015533,
+    "relative_grad_L1_norm": 24.459591343675225
+  },
+  {
+    "iteration": 351,
+    "beta": 10935.0,
+    "fitness": 0.1985538406418902,
+    "binarity": 0.9991247743558886,
+    "current_source_eta": "74.35379739126017",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 13.303107323006643",
+    "grad_L1_norm": 47.57156824004212,
+    "relative_grad_L1_norm": 239.59026854711652
+  },
+  {
+    "iteration": 352,
+    "beta": 10935.0,
+    "fitness": 0.39779723178114684,
+    "binarity": 0.9985777583283191,
+    "current_source_eta": "63.30570835744408",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 26.652414529336838",
+    "grad_L1_norm": 90.38682829956235,
+    "relative_grad_L1_norm": 227.21834354561688
+  },
+  {
+    "iteration": 353,
+    "beta": 10935.0,
+    "fitness": 0.37118312557252897,
+    "binarity": 0.998687161533833,
+    "current_source_eta": "68.03206228172078",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 24.86926941335944",
+    "grad_L1_norm": 127.3037430479186,
+    "relative_grad_L1_norm": 342.96748406488655
+  },
+  {
+    "iteration": 354,
+    "beta": 10935.0,
+    "fitness": 0.7434985808450444,
+    "binarity": 0.9985777583283191,
+    "current_source_eta": "64.7839154190157",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 49.814404916617974",
+    "grad_L1_norm": 94.96071470236356,
+    "relative_grad_L1_norm": 127.72144698206662
+  },
+  {
+    "iteration": 355,
+    "beta": 10935.0,
+    "fitness": 0.8516230999101223,
+    "binarity": 0.9984683551228051,
+    "current_source_eta": "66.01005558629771",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 57.0587476939782",
+    "grad_L1_norm": 69.97321690857576,
+    "relative_grad_L1_norm": 82.16453597113087
+  },
+  {
+    "iteration": 356,
+    "beta": 10935.0,
+    "fitness": 0.9474288169319875,
+    "binarity": 0.9980307423007494,
+    "current_source_eta": "66.51967689980602",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 63.47773073444316",
+    "grad_L1_norm": 48.77950561614577,
+    "relative_grad_L1_norm": 51.48619578895633
+  },
+  {
+    "iteration": 357,
+    "beta": 10935.0,
+    "fitness": 0.9766449804056586,
+    "binarity": 0.9980307423007494,
+    "current_source_eta": "67.2726744273595",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.43521368717913",
+    "grad_L1_norm": 23.174653018227012,
+    "relative_grad_L1_norm": 23.728840530027977
+  },
+  {
+    "iteration": 358,
+    "beta": 10935.0,
+    "fitness": 0.9794160409246543,
+    "binarity": 0.9980307423007494,
+    "current_source_eta": "67.49199511665397",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.62087474195184",
+    "grad_L1_norm": 16.536844327000306,
+    "relative_grad_L1_norm": 16.88439194288026
+  },
+  {
+    "iteration": 359,
+    "beta": 32805.0,
+    "fitness": 0.9728618849527239,
+    "binarity": 0.9994529839724304,
+    "current_source_eta": "67.5372562672895",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.1817462918325",
+    "grad_L1_norm": 24.195971470076696,
+    "relative_grad_L1_norm": 24.870921370695466
+  },
+  {
+    "iteration": 360,
+    "beta": 32805.0,
+    "fitness": 0.0395439651757109,
+    "binarity": 0.9996717903834582,
+    "current_source_eta": "77.60055618626961",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 2.64944566677263",
+    "grad_L1_norm": 28.288260314573716,
+    "relative_grad_L1_norm": 715.3622423425302
+  },
+  {
+    "iteration": 361,
+    "beta": 32805.0,
+    "fitness": 0.3099320169107969,
+    "binarity": 0.9997264919862152,
+    "current_source_eta": "62.830105445505275",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 20.765445133023395",
+    "grad_L1_norm": 96.64990589462724,
+    "relative_grad_L1_norm": 311.84227607760266
+  },
+  {
+    "iteration": 362,
+    "beta": 32805.0,
+    "fitness": 0.5295637392838473,
+    "binarity": 0.9997264919862152,
+    "current_source_eta": "63.066108540961196",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 35.480770532017765",
+    "grad_L1_norm": 113.03423963688098,
+    "relative_grad_L1_norm": 213.4478459123625
+  },
+  {
+    "iteration": 363,
+    "beta": 32805.0,
+    "fitness": 0.729267542416959,
+    "binarity": 0.9998358951917292,
+    "current_source_eta": "64.76562789444479",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 48.86092534193625",
+    "grad_L1_norm": 114.65200866379033,
+    "relative_grad_L1_norm": 157.2152904633492
+  },
+  {
+    "iteration": 364,
+    "beta": 32805.0,
+    "fitness": 0.8391016306336516,
+    "binarity": 0.9996717903834582,
+    "current_source_eta": "64.96373961526555",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 56.21980925245466",
+    "grad_L1_norm": 80.07514261947387,
+    "relative_grad_L1_norm": 95.42961138518481
+  },
+  {
+    "iteration": 365,
+    "beta": 32805.0,
+    "fitness": 0.902767158542632,
+    "binarity": 0.9997264919862152,
+    "current_source_eta": "65.748282180822",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 60.48539962235635",
+    "grad_L1_norm": 67.15282783774354,
+    "relative_grad_L1_norm": 74.38554573890914
+  },
+  {
+    "iteration": 366,
+    "beta": 32805.0,
+    "fitness": 0.9568965451360985,
+    "binarity": 0.9995076855751873,
+    "current_source_eta": "66.68848025262598",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.1120685241186",
+    "grad_L1_norm": 40.95339699935772,
+    "relative_grad_L1_norm": 42.798144861872
+  },
+  {
+    "iteration": 367,
+    "beta": 32805.0,
+    "fitness": 0.9790272725435546,
+    "binarity": 0.9993982823696734,
+    "current_source_eta": "67.36249393208419",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.59482726041816",
+    "grad_L1_norm": 13.57351249056909,
+    "relative_grad_L1_norm": 13.864284333408039
+  },
+  {
+    "iteration": 368,
+    "beta": 32805.0,
+    "fitness": 0.9780641315836424,
+    "binarity": 0.9994529839724304,
+    "current_source_eta": "67.48629279047114",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.53029681610404",
+    "grad_L1_norm": 10.395492446164372,
+    "relative_grad_L1_norm": 10.628640903847241
+  },
+  {
+    "iteration": 369,
+    "beta": 32805.0,
+    "fitness": 0.976913953424239,
+    "binarity": 0.9993982823696734,
+    "current_source_eta": "67.40316987851642",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.45323487942402",
+    "grad_L1_norm": 14.01838735254113,
+    "relative_grad_L1_norm": 14.349664357904588
+  },
+  {
+    "iteration": 370,
+    "beta": 32805.0,
+    "fitness": 0.9790301483578607,
+    "binarity": 0.9993982823696734,
+    "current_source_eta": "67.36282719218828",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.59501993997667",
+    "grad_L1_norm": 13.561560597204636,
+    "relative_grad_L1_norm": 13.852035717285696
+  },
+  {
+    "iteration": 371,
+    "beta": 98415.0,
+    "fitness": 0.9758107970556396,
+    "binarity": 1.0,
+    "current_source_eta": "67.35884890692681",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.37932340272785",
+    "grad_L1_norm": 13.716657337881642,
+    "relative_grad_L1_norm": 14.056677139884997
+  },
+  {
+    "iteration": 372,
+    "beta": 98415.0,
+    "fitness": 0.37891257769864295,
+    "binarity": 0.999890596794486,
+    "current_source_eta": "66.89011647101283",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 25.387142705809076",
+    "grad_L1_norm": 103.82101635372648,
+    "relative_grad_L1_norm": 273.9972811414569
+  },
+  {
+    "iteration": 373,
+    "beta": 98415.0,
+    "fitness": 0.3446221967596749,
+    "binarity": 1.0,
+    "current_source_eta": "64.62171439596274",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 23.08968718289822",
+    "grad_L1_norm": 113.59889242360362,
+    "relative_grad_L1_norm": 329.63312625271664
+  },
+  {
+    "iteration": 374,
+    "beta": 98415.0,
+    "fitness": 0.36204121253809524,
+    "binarity": 0.999945298397243,
+    "current_source_eta": "64.32501334306794",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 24.25676124005238",
+    "grad_L1_norm": 106.41641551986032,
+    "relative_grad_L1_norm": 293.934534358373
+  },
+  {
+    "iteration": 375,
+    "beta": 98415.0,
+    "fitness": 0.7674233818955409,
+    "binarity": 1.0,
+    "current_source_eta": "69.03397168246036",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 51.41736658700124",
+    "grad_L1_norm": 130.28567186722572,
+    "relative_grad_L1_norm": 169.77026602401529
+  },
+  {
+    "iteration": 376,
+    "beta": 98415.0,
+    "fitness": 0.9715213691712234,
+    "binarity": 0.999890596794486,
+    "current_source_eta": "67.66215042454891",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.09193173447197",
+    "grad_L1_norm": 25.37302249338849,
+    "relative_grad_L1_norm": 26.11679297277494
+  },
+  {
+    "iteration": 377,
+    "beta": 98415.0,
+    "fitness": 0.9753353421313947,
+    "binarity": 0.9998905967944861,
+    "current_source_eta": "67.39370603833581",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.34746792280345",
+    "grad_L1_norm": 21.596811901511707,
+    "relative_grad_L1_norm": 22.142960422384938
+  },
+  {
+    "iteration": 378,
+    "beta": 98415.0,
+    "fitness": 0.9756903228465275,
+    "binarity": 0.999945298397243,
+    "current_source_eta": "67.40853201014721",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.37125163071734",
+    "grad_L1_norm": 21.804777219047214,
+    "relative_grad_L1_norm": 22.348051104047872
+  },
+  {
+    "iteration": 379,
+    "beta": 98415.0,
+    "fitness": 0.9749451970261761,
+    "binarity": 0.999945298397243,
+    "current_source_eta": "67.82744145700102",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.3213282007538",
+    "grad_L1_norm": 16.842800180374457,
+    "relative_grad_L1_norm": 17.2756378660806
+  },
+  {
+    "iteration": 380,
+    "beta": 98415.0,
+    "fitness": 0.9822042505759029,
+    "binarity": 0.999945298397243,
+    "current_source_eta": "67.44881810755709",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.80768478858549",
+    "grad_L1_norm": 13.379459995457877,
+    "relative_grad_L1_norm": 13.621871391811968
+  },
+  {
+    "iteration": 381,
+    "beta": 98415.0,
+    "fitness": 0.9757534878996332,
+    "binarity": 0.9998905967944861,
+    "current_source_eta": "67.53808918099423",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.37548368927543",
+    "grad_L1_norm": 12.879131062450607,
+    "relative_grad_L1_norm": 13.19916475725291
+  },
+  {
+    "iteration": 382,
+    "beta": 98415.0,
+    "fitness": 0.9822075724207002,
+    "binarity": 0.999945298397243,
+    "current_source_eta": "67.4489013784078",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.80790735218692",
+    "grad_L1_norm": 13.377777166253361,
+    "relative_grad_L1_norm": 13.62011200917851
+  },
+  {
+    "iteration": 383,
+    "beta": 295245.0,
+    "fitness": 0.9600941192406115,
+    "binarity": 0.999945298397243,
+    "current_source_eta": "67.06243977986942",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 64.32630598912097",
+    "grad_L1_norm": 17.247610904665777,
+    "relative_grad_L1_norm": 17.964500084995116
+  },
+  {
+    "iteration": 384,
+    "beta": 295245.0,
+    "fitness": 0.7254558089664542,
+    "binarity": 1.0,
+    "current_source_eta": "68.45604908066262",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 48.60553920075243",
+    "grad_L1_norm": 54.89722681873482,
+    "relative_grad_L1_norm": 75.67273714614447
+  },
+  {
+    "iteration": 385,
+    "beta": 295245.0,
+    "fitness": 0.5144490425168825,
+    "binarity": 1.0,
+    "current_source_eta": "66.15652266133277",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 34.46808584863113",
+    "grad_L1_norm": 81.40610392471093,
+    "relative_grad_L1_norm": 158.2393921236622
+  },
+  {
+    "iteration": 386,
+    "beta": 295245.0,
+    "fitness": 0.2823168498505964,
+    "binarity": 1.0,
+    "current_source_eta": "66.16411682562496",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 18.91522893998996",
+    "grad_L1_norm": 130.54816614594483,
+    "relative_grad_L1_norm": 462.41719455503426
+  },
+  {
+    "iteration": 387,
+    "beta": 295245.0,
+    "fitness": 0.9190089452894934,
+    "binarity": 0.999945298397243,
+    "current_source_eta": "68.15278489150235",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 61.57359933439606",
+    "grad_L1_norm": 54.272750872675005,
+    "relative_grad_L1_norm": 59.05573726110253
+  },
+  {
+    "iteration": 388,
+    "beta": 295245.0,
+    "fitness": 0.9318418655310817,
+    "binarity": 1.0,
+    "current_source_eta": "68.505181630283",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 62.433404990582474",
+    "grad_L1_norm": 50.4542299971697,
+    "relative_grad_L1_norm": 54.144626689711835
+  },
+  {
+    "iteration": 389,
+    "beta": 295245.0,
+    "fitness": 0.9738446092020786,
+    "binarity": 1.0,
+    "current_source_eta": "67.9009549085196",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.24758881653926",
+    "grad_L1_norm": 19.67354032397645,
+    "relative_grad_L1_norm": 20.20192966914308
+  },
+  {
+    "iteration": 390,
+    "beta": 295245.0,
+    "fitness": 0.97264996782033,
+    "binarity": 1.0,
+    "current_source_eta": "67.94696816496305",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.16754784396211",
+    "grad_L1_norm": 19.591805104641917,
+    "relative_grad_L1_norm": 20.142708818881335
+  },
+  {
+    "iteration": 391,
+    "beta": 295245.0,
+    "fitness": 0.973844703434131,
+    "binarity": 1.0,
+    "current_source_eta": "67.90094851347013",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.24759513008678",
+    "grad_L1_norm": 19.673381237585623,
+    "relative_grad_L1_norm": 20.201764355249203
+  },
+  {
+    "iteration": 392,
+    "beta": 295245.0,
+    "fitness": 0.45024732781678,
+    "binarity": 1.0,
+    "current_source_eta": "68.8686325517309",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 30.16657096372426",
+    "grad_L1_norm": 106.56030830852734,
+    "relative_grad_L1_norm": 236.67060632777262
+  },
+  {
+    "iteration": 393,
+    "beta": 295245.0,
+    "fitness": 0.9749668194664666,
+    "binarity": 1.0,
+    "current_source_eta": "67.41241006666988",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.32277690425326",
+    "grad_L1_norm": 21.431440169252163,
+    "relative_grad_L1_norm": 21.98171232021868
+  },
+  {
+    "iteration": 394,
+    "beta": 295245.0,
+    "fitness": 0.9752171697793928,
+    "binarity": 1.0,
+    "current_source_eta": "67.27796399198054",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955037521932",
+    "grad_L1_norm": 23.705595045518017,
+    "relative_grad_L1_norm": 24.308016466293886
+  },
+  {
+    "iteration": 395,
+    "beta": 295245.0,
+    "fitness": 0.9752171701608843,
+    "binarity": 1.0,
+    "current_source_eta": "67.27796400072326",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955040077925",
+    "grad_L1_norm": 23.705594870879118,
+    "relative_grad_L1_norm": 24.308016277707996
+  },
+  {
+    "iteration": 396,
+    "beta": 295245.0,
+    "fitness": 0.975217170272813,
+    "binarity": 1.0,
+    "current_source_eta": "67.2779640034463",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955040827847",
+    "grad_L1_norm": 23.7055948152168,
+    "relative_grad_L1_norm": 24.308016217841242
+  },
+  {
+    "iteration": 397,
+    "beta": 295245.0,
+    "fitness": 0.9752171703166183,
+    "binarity": 1.0,
+    "current_source_eta": "67.27796400453376",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955041121342",
+    "grad_L1_norm": 23.705594792822666,
+    "relative_grad_L1_norm": 24.308016193786138
+  },
+  {
+    "iteration": 398,
+    "beta": 295245.0,
+    "fitness": 0.9752171703637408,
+    "binarity": 1.0,
+    "current_source_eta": "67.27796400571785",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955041437063",
+    "grad_L1_norm": 23.70559476833148,
+    "relative_grad_L1_norm": 24.308016167498003
+  },
+  {
+    "iteration": 399,
+    "beta": 295245.0,
+    "fitness": 0.9752171716089496,
+    "binarity": 1.0,
+    "current_source_eta": "67.27796405857083",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955049779962",
+    "grad_L1_norm": 23.705593489130706,
+    "relative_grad_L1_norm": 24.30801482475162
+  },
+  {
+    "iteration": 400,
+    "beta": 885735.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 401,
+    "beta": 2657205.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 402,
+    "beta": 7971615.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 403,
+    "beta": 23914845.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 404,
+    "beta": 71744535.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 405,
+    "beta": 215233605.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 406,
+    "beta": 645700815.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 407,
+    "beta": 1937102445.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 408,
+    "beta": 5811307335.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 409,
+    "beta": 17433922005.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 410,
+    "beta": 52301766015.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 411,
+    "beta": 156905298045.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 412,
+    "beta": 470715894135.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 413,
+    "beta": 1412147682405.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 414,
+    "beta": 4236443047215.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 415,
+    "beta": 12709329141645.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 416,
+    "beta": 38127987424935.0,
+    "fitness": 0.9752171725185352,
+    "binarity": 1.0,
+    "current_source_eta": "67.27796408083302",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055874186",
+    "grad_L1_norm": 23.705592368798982,
+    "relative_grad_L1_norm": 24.30801365327723
+  },
+  {
+    "iteration": 417,
+    "beta": 114383962274805.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  },
+  {
+    "iteration": 418,
+    "beta": 343151886824415.0,
+    "fitness": 0.9752171725186703,
+    "binarity": 1.0,
+    "current_source_eta": "67.277964080836",
+    "current_out_waveguide_eta": "Autograd ArrayBox with value 65.33955055875091",
+    "grad_L1_norm": 23.705592369169192,
+    "relative_grad_L1_norm": 24.30801365365348
+  }
+]
